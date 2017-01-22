@@ -4,16 +4,21 @@ I'm a android developer also interesting in iOS. I work and live in San Francisc
 
 
 # Projects at Work
-
+[Fever Scout APP] (https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en)
+[Fever Scout Product] (https://feverscout.com)
 
 
 # Open-Source Projects
 
-[GitHub projects]
+[GitHub projects](https://github.com/Mylittleswift)
+
+## Android BLE SDK
+
 
 
 
 # Professional Experience
+
 
 
 
