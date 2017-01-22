@@ -1,4 +1,4 @@
-## Welcome! I'm mylittleswift
+## Welcome! I'm Joey
 
 You can use the [editor on GitHub](https://github.com/Mylittleswift/mylittleswift.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
