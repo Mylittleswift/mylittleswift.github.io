@@ -1,19 +1,28 @@
 # Welcome! I'm Joey
 
-I'm a android developer also interesting in iOS. I work and live in San Francisco Bay Area (South Bay). I like programming and software engineering as well as new technologies. I enjoy learning at working. I enjoy learning while working, and enjoy working while learning, too.
+I'm an android developer also interesting in iOS app development.<br />
+I work and live in San Francisco Bay Area (South Bay). <br />
+I like programming, software engineering, new technologies. <br />
+I enjoy learning while working. I enjoy working while learning, too. <br />
+Look forward to working with you and playing fun together. <br />
 
 
 # Projects at Work
 [Fever Scout APP - Android](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en) <br />
+My contributions:       <br /> 
+
 [Fever Scout APP - iOS](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8) <br />
-[Fever Scout Webpage](https://feverscout.com)
+My contributions:       <br /> 
+
+[Fever Scout Product Webpages](https://feverscout.com)
+My contributions:       <br /> 
+
 
 
 # Open-Source Projects
+[My GitHub Pages](https://github.com/Mylittleswift) <br />
 
-[GitHub projects](https://github.com/Mylittleswift)
 
-## Android BLE SDK
 
 
 
@@ -24,7 +33,7 @@ I'm a android developer also interesting in iOS. I work and live in San Francisc
 
 
 
-# Programming Skills and Techniques
+# Languages and Tools
 
 
 
