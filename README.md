@@ -4,8 +4,9 @@ I'm a android developer also interesting in iOS. I work and live in San Francisc
 
 
 # Projects at Work
-[Fever Scout APP] (https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en)
-[Fever Scout Product] (https://feverscout.com)
+##[Fever Scout APP - Android] (https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en)
+##[Fever Scout APP - iOS] (https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8)
+##[Fever Scout Webpage] (https://feverscout.com)
 
 
 # Open-Source Projects
