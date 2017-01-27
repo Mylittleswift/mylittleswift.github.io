@@ -17,6 +17,13 @@ My contributions:       <br />
 [Fever Scout Product Introduction](https://feverscout.com) <br /> 
 My contributions:       <br /> 
 
+[Thinfilm Authenticator](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en) <br /> 
+My contributions:       <br /> 
+
+[Thinfilm NFC Launcher](https://play.google.com/store/apps/details?id=no.thinfilm.launcher&hl=en) <br /> 
+My contributions:       <br /> 
+
+
 
 
 # Open-Source Projects
