@@ -33,4 +33,4 @@ My contributions:       <br />
 
 
 ## Contact
-mylittleswift@gmail.com
+<mylittleswift@gmail.com>
