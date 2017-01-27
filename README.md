@@ -4,7 +4,7 @@ I'm an android developer also interesting in iOS.<br />
 I work and live in San Francisco Bay Area. <br />
 I like programming, software engineering, new technologies. <br />
 I enjoy learning while working. I enjoy working while learning, too. <br />
-Look forward to working with you and playing fun together. <br />
+Welcome to invite me to your team to work and to play fun together. <br />
 
 
 # Projects at Work
@@ -14,7 +14,7 @@ My contributions:       <br />
 [Fever Scout APP - iOS](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8) <br />
 My contributions:       <br /> 
 
-[Fever Scout Product Webpages](https://feverscout.com)
+[Fever Scout Product Introduction](https://feverscout.com) <br /> 
 My contributions:       <br /> 
 
 
@@ -22,21 +22,19 @@ My contributions:       <br />
 # Open-Source Projects
 [My GitHub Pages](https://github.com/Mylittleswift) <br />
 
-
-
+<br /> 
+<br /> 
 
 
 
 # Professional Experience
+<br /> 
+<br /> 
 
 
-
-
-
-# Languages and Tools
 
 
 
 
 ## Contact
-[mylittleswift@gmail.com]
+(mylittleswift@gmail.com)
