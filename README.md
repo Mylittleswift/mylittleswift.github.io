@@ -1,7 +1,7 @@
 # Welcome! I'm Joey
 
-I'm an android developer also interesting in iOS app development.<br />
-I work and live in San Francisco Bay Area (South Bay). <br />
+I'm an android developer also interesting in iOS.<br />
+I work and live in San Francisco Bay Area. <br />
 I like programming, software engineering, new technologies. <br />
 I enjoy learning while working. I enjoy working while learning, too. <br />
 Look forward to working with you and playing fun together. <br />
