@@ -1,9 +1,9 @@
 # Welcome! I'm Joey
 
-I'm an android developer also interesting in iOS.<br />
-I work and live in San Francisco Bay Area. <br />
+I'm an android developer also interested in iOS.<br />
+I work and live in SF Bay Area. <br />
 I like programming, software engineering, new technologies. <br />
-I enjoy learning while working. I enjoy working while learning, too. <br />
+I enjoy learning while working and contributing to open source projects. <br />
 Welcome to invite me to your team to work and to play fun together. <br />
 
 
@@ -32,9 +32,5 @@ My contributions:       <br />
 <br /> 
 
 
-
-
-
-
 ## Contact
-(mylittleswift@gmail.com)
+mylittleswift@gmail.com
