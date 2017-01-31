@@ -3,8 +3,8 @@
 I'm an android developer also interested in iOS.<br />
 I work and live in SF Bay Area. <br />
 I like programming, software engineering, new technologies. <br />
-I enjoy learning while working and contributing to open source projects. <br />
-Welcome to invite me to your team to work and to play fun together. <br />
+I enjoy contributing to open source projects. <br />
+Look forward to working and to playing fun together. <br />
 
 
 # Projects at Work
