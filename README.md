@@ -40,6 +40,13 @@ My contributions:       <br />
 <br /> 
 <br /> 
 
+# Education
+<br /> 
+<br /> 
+
+# Skills
+Good at these languages: Java, Groovy, SQL, Markdown, UML<br /> 
+Good at these tools: Android Studio, Eclipse, Xcode, Git, SourceTree, JIRA <br /> 
 
 ## Contact
 <mylittleswift@gmail.com>
