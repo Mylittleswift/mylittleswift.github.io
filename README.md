@@ -15,7 +15,7 @@ My contributions:       <br />
 [Fever Scout APP - iOS](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8) <br />
 My contributions:       <br /> 
 
-[Fever Scout Product Introduction](https://feverscout.com) <br /> 
+**[Fever Scout Product Introduction](https://feverscout.com) <br /> 
 
 
 [Thinfilm Authenticator](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en) <br /> 
@@ -24,7 +24,7 @@ My contributions:       <br />
 [Thinfilm NFC Launcher](https://play.google.com/store/apps/details?id=no.thinfilm.launcher&hl=en) <br /> 
 My contributions:       <br /> 
 
-[Thinfilm NFC Product Introduction](http://thinfilm.no/products-nfc-solutions) <br /> 
+**[Thinfilm NFC Product Introduction](http://thinfilm.no/products-nfc-solutions) <br /> 
 
 
 
@@ -45,7 +45,7 @@ My contributions:       <br />
 <br /> 
 
 # Skills
-Good at these languages: Java, Groovy, SQL, Markdown, UML<br /> 
+Good at these languages: Java, Groovy, SQL, XML, Markdown, UML<br /> 
 Good at these tools: Android Studio, Eclipse, Xcode, Git, SourceTree, JIRA <br /> 
 
 ## Contact
