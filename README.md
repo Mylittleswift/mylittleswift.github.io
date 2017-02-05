@@ -2,9 +2,8 @@
 
 I'm an android developer also interested in iOS.<br />
 I work and live in SF Bay Area. <br />
-I like programming, software engineering, new technologies. <br />
-I enjoy contributing to open source projects. <br />
-Look forward to working and to playing fun together. <br />
+I like programming, software engineering, new technologies, and enjoy contributing to open source projects. <br />
+
 
 
 # Projects at Work
