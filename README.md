@@ -1,34 +1,38 @@
 # Welcome! I'm Joey
 
-I'm an android developer also interested in iOS.<br />
-I work and live in SF Bay Area. <br />
-I like programming, software engineering, new technologies, and enjoy contributing to open source projects. <br />
+I'm a software engineer (mobile app developer) in SF Bay Area. <br />
+
+# Specialties
+1. Android and iOS APP/SDK Development
+2. BLE (Bluetooth Low Energy) Applications
+3. NFC (Near Field Communication) Applications
+
+# Commercial Projects
+
+**[Fever Scout](https://feverscout.com) <br /> 
+
+[Android - Google Play Store](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en) <br />
+
+[iOS - App Store](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8) <br />
 
 
 
-# Projects at Work
 
-[Fever Scout APP - Android](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en) <br />
-My contributions:       <br /> 
 
-[Fever Scout APP - iOS](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8) <br />
-My contributions:       <br /> 
-
-**[Fever Scout Product Introduction](https://feverscout.com) <br /> 
-
+**[Thinfilm NFC Product](http://thinfilm.no/products-nfc-solutions) <br /> 
 
 [Thinfilm Authenticator](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en) <br /> 
-My contributions:       <br /> 
+
 
 [Thinfilm NFC Launcher](https://play.google.com/store/apps/details?id=no.thinfilm.launcher&hl=en) <br /> 
-My contributions:       <br /> 
 
-**[Thinfilm NFC Product Introduction](http://thinfilm.no/products-nfc-solutions) <br /> 
+
+
 
 
 
 # Open-Source Projects
-[My GitHub Pages](https://github.com/Mylittleswift) <br />
+
 
 <br /> 
 <br /> 
@@ -39,9 +43,6 @@ My contributions:       <br />
 <br /> 
 <br /> 
 
-# Education
-<br /> 
-<br /> 
 
 # Skills
 Good at these languages: Java, Groovy, SQL, XML, Markdown, UML<br /> 
