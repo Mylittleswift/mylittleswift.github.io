@@ -9,9 +9,9 @@ I'm a software engineer (mobile app developer) in SF Bay Area. <br />
 
 # Commercial Projects
 
-**[Fever Scout](https://feverscout.com)** <br /> 
+#[Fever Scout](https://feverscout.com) <br /> 
 
-Format: ![Alt Text](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/image/authenicator.webp) <br />
+![Alt Text](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/image/authenicator.webp) <br />
 
 [Android - Google Play Store](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en) <br />
 
