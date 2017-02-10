@@ -10,6 +10,7 @@ I'm a software engineer (mobile app developer) in SF Bay Area. <br />
 # Commercial Projects
 
 **[Fever Scout](https://feverscout.com)** <br /> 
+![alt text] (https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/image/authenicator.webp)
 
 [Android - Google Play Store](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en) <br />
 
@@ -19,7 +20,7 @@ I'm a software engineer (mobile app developer) in SF Bay Area. <br />
 
 
 
-**[Thinfilm NFC Product](http://thinfilm.no/products-nfc-solutions) <br /> 
+*[Thinfilm NFC Product](http://thinfilm.no/products-nfc-solutions)* <br /> 
 
 [Thinfilm Authenticator](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en) <br /> 
 
@@ -45,7 +46,7 @@ I'm a software engineer (mobile app developer) in SF Bay Area. <br />
 
 
 # Skills
-Good at these languages: Java, Groovy, SQL, XML, Markdown, UML<br /> 
+Good at these languages: Java, Objective-C, SQL, XML, Markdown, UML<br /> 
 Good at these tools: Android Studio, Eclipse, Xcode, Git, SourceTree, JIRA <br /> 
 
 ## Contact
