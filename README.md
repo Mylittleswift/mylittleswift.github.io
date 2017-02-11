@@ -3,19 +3,19 @@
 I'm a software engineer (mobile app developer) in SF Bay Area. <br />
 
 # Specialties
-  1. Android and iOS APP/SDK Development <br />
-  2. BLE (Bluetooth Low Energy) Applications <br />
-  3. NFC (Near Field Communication) Applications <br />
+   1. Android and iOS APP/SDK Development <br />
+   2. BLE (Bluetooth Low Energy) Applications <br />
+   3. NFC (Near Field Communication) Applications <br />
 
 # Commercial Projects
 
-#[Fever Scout](https://feverscout.com) <br /> 
+#[Fever Scout](https://feverscout.com) [Android - Google Play Store](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en) [iOS - App Store](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8)
 
 ![Alt Text](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/image/feverscout.jpeg) <br />
 
-[Android - Google Play Store](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en) <br />
+ <br />
 
-[iOS - App Store](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8) <br />
+ <br />
 
 
 
