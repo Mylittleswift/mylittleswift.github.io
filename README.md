@@ -21,7 +21,7 @@ I'm a software engineer (mobile app developer) in SF Bay Area. <br />
 
 
 
-*[Thinfilm NFC Product](http://thinfilm.no/products-nfc-solutions)* <br /> 
+#[Thinfilm NFC Product](http://thinfilm.no/products-nfc-solutions) <br /> 
 
 [Thinfilm Authenticator](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en) <br /> 
 
