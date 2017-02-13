@@ -26,15 +26,13 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 
 ###[Android-BLE-SDK](https://github.com/Mylittleswift/Android-BLE-SDK/)
 A library to make classic bluetooth or BLE easier to use in Android.
-
 ###[Android-NFC-SDK](https://github.com/Mylittleswift/Android-NFC-SDK/)
-a library for Android NFC Applications (NFC tags reader/writer, P2P, Android Beam)
-
+A library for Android NFC Applications (NFC tags reader/writer, P2P, Android Beam)
 ###[iOS-BLE-SDK](https://github.com/Mylittleswift/iOS-BLE-SDK/)
 A library to make classic bluetooth or BLE easier to use in iOS.
 
 # Professional Experience
-
+4 years of software engineering
 
 
 # Skills
