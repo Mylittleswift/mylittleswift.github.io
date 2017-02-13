@@ -1,11 +1,11 @@
 # Welcome! I'm Joey
 
-I'm a software engineer (mobile app developer) in SF Bay Area. <br />
+I'm a software engineer (mobile app developer) in SF Bay Area.
 
 # Specialties
-  1. Android and iOS App Development <br />
-  2. BLE (Bluetooth Low Energy) Applications in Android and iOS <br />
-  3. NFC (Near Field Communication) Applications in Android <br />
+  * Android and iOS App Development
+  * BLE (Bluetooth Low Energy) Applications in Android and iOS
+  * NFC (Near Field Communication) Applications in Android
 
 # Commercial Projects
 
