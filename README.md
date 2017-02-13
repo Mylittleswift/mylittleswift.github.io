@@ -32,7 +32,8 @@ A library for Android NFC Applications (NFC tags reader/writer, P2P, Android Bea
 A library to make classic bluetooth or BLE easier to use in iOS.
 
 # Professional Experience
-4 years of software engineering
+Software engineer since 2014
+Hardware engineer since 2008
 
 
 # Skills
