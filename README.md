@@ -33,7 +33,6 @@ A library to make classic bluetooth or BLE easier to use in iOS.
 
 # Professional Experience
 Software engineer since 2014
-Hardware engineer since 2008
 
 
 # Skills
