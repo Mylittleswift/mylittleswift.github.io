@@ -16,31 +16,24 @@ As a concerned parent, when your kid isn’t feeling well, you could use a littl
 ![Alt Text](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/image/feverscout.jpeg)
 -------------------------
 
-
 ##[Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)
 Thinfilm Authenticator app is the official authentication service for NFC OpenSense technology. Simply open the app, then touch and hold your phone's NFC touchpoint (see below) to the NFC OpenSense label on the product you wish to verify.
 [Google Play Store](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en)
-![Alt Text](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/image/authenicator.webp)
+![Alt Text](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/image/thinfilm.png)
 ------------------
-
 
 # Open-Source Projects
 
 
-<br /> 
-<br /> 
-
-
 
 # Professional Experience
-<br /> 
-<br /> 
+
 
 
 # Skills
-Android: Android Stuido, Java, Groovy, XML  <br /> 
-iOS: Xcode, Objective-C  <br /> 
-Extra: Git, JIRA, Sourcetree, Markdown, UML, Eclipse <br /> 
+Android: Android Stuido, Java, Groovy, XML
+iOS: Xcode, Objective-C
+Others: Git, JIRA, Sourcetree, Eclipse, SQL, Markdown, UML 
 
 ## Contact
 <mylittleswift@gmail.com>
