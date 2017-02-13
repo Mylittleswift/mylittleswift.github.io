@@ -31,9 +31,9 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 
 
 # Skills
-Android: Android Stuido, Java, Groovy, XML
-iOS: Xcode, Objective-C
-Others: Git, JIRA, Sourcetree, Eclipse, SQL, Markdown, UML 
+* Android: Android Stuido, Java, Groovy, XML
+* iOS: Xcode, Objective-C
+* Others: Git, JIRA, Sourcetree, Eclipse, SQL, Markdown, UML 
 
 ## Contact
 <mylittleswift@gmail.com>
