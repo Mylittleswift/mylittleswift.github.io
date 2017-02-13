@@ -9,7 +9,9 @@ I'm a software engineer (mobile app developer) in SF Bay Area. <br />
 
 # Commercial Projects
 
-#[Fever Scout](https://feverscout.com) [Google Play Store](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en)  [iOS App Store](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8)
+#[Fever Scout](https://feverscout.com) 
+@ [Google Play Store](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en)  
+@ [iOS App Store](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8)
 
 ![Alt Text](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/image/feverscout.jpeg) <br />
 
@@ -17,7 +19,7 @@ I'm a software engineer (mobile app developer) in SF Bay Area. <br />
 
 
 [Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)
-[Google Play Store](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en) <br /> 
+@ [Google Play Store](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en) <br /> 
 
 ![Alt Text](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/image/authenicator.webp) <br />
 
