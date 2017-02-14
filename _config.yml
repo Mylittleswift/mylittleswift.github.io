@@ -10,3 +10,5 @@ github_username:  mylittleswift
 # Build settings
 markdown: kramdown
 
+
+theme: jekyll-theme-cayman
