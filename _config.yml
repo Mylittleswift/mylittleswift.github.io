@@ -1,1 +1,12 @@
+# Site settings
+title: Clean
+email: mylittleswift@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My GitHub Resume
+url: "https://github.com/Mylittleswift/mylittleswift.github.io" # the base hostname & protocol for your site
+twitter_username: mylittleswift
+github_username:  mylittleswift
+
+# Build settings
+markdown: kramdown
 
