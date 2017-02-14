@@ -2,5 +2,4 @@
 # Build settings
 markdown: kramdown
 
-
 theme: jekyll-theme-cayman
