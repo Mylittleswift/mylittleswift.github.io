@@ -19,7 +19,7 @@ As a concerned parent, when your kid isn’t feeling well, you could use a littl
 # [Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)<br />
 Thinfilm Authenticator app is the official authentication service for NFC OpenSense technology. Simply open the app, then touch and hold your phone's NFC touchpoint to the NFC OpenSense label on the product you wish to verify.<br />
 [Google Play Store](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en)<br />
-![My image](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/image/thinfilm.png)
+![My image](http://media.npr.org/assets/img/2012/06/05/scott-o-neill_wide-4719eb50c025c1938b48a97518f3e8ba504a1397-s1600-c85.jpg)
 
 
 # Open-Source Projects
