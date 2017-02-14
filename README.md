@@ -13,7 +13,7 @@ I'm a software engineer (mobile app developer) in SF Bay Area.
 As a concerned parent, when your kid isn’t feeling well, you could use a little extra help. Fever Scout is a soft wearable thermometer that continuously measures temperature and wirelessly sends that information to your smartphone or tablet.<br />
 [Google Play Store](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en)<br />
 [iOS App Store](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8)<br />
-![app screenshot](http://a3.mzstatic.com/us/r30/Purple71/v4/10/76/7e/10767ee2-2f94-bb0e-e215-9d109b267fa1/screen696x696.jpeg)
+![app screenshot](http://a3.mzstatic.com/us/r30/Purple71/v4/10/76/7e/10767ee2-2f94-bb0e-e215-9d109b267fa1/screen696x696.jpeg =100x80)
 
 
 # [Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)<br />
