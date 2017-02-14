@@ -4,8 +4,8 @@ I'm a software engineer (mobile app developer) in SF Bay Area.
 
 # Specialties
   * Android and iOS APP/SDK Development
-  * BLE (Bluetooth Low Energy) Applications in Android and iOS
-  * NFC (Near Field Communication) Applications in Android
+  * BLE (Bluetooth Low Energy) Applications on Android and iOS
+  * NFC (Near Field Communication) Applications on Android
 
 # Commercial Projects
 
