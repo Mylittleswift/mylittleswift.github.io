@@ -1,13 +1,12 @@
 # Site settings
 title: Clean
-email: your-email@domain.com
+email: mylittleswift@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml.
-baseurl: "/clean" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  My GitHub Resume
+baseurl: "/mylittleswift.github.io" # the subpath of your site, e.g. /blog/
+url: "https://github.com/Mylittleswift" # the base hostname & protocol for your site
+twitter_username: mylittleswift
+github_username:  mylittleswift
 
 # Build settings
 markdown: kramdown
