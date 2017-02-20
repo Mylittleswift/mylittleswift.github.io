@@ -45,7 +45,7 @@ Software engineer since 2013
 # Skills
 * Android: Android Studio, Java, Groovy, XML
 * iOS: Xcode, Objective-C
-* Others: Git, JIRA, SourceTree, Eclipse, SQL, Markdown, UML 
+* Others: Git, JIRA, Eclipse, SQL, Markdown, UML 
 
 # Contact
 <mylittleswift@gmail.com>
