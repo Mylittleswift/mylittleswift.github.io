@@ -40,12 +40,11 @@ A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam)<br />
 
 
 # Professional Experience
-Software engineer since 2013
+Software engineer since 2014, engineer since 2008
 
 # Skills
 * Android: Android Studio, Java, Groovy, XML
-* iOS: Xcode, Objective-C
-* Others: Git, JIRA, Eclipse, SQL, Markdown, UML 
+* Others: Git, SourceTree, JIRA, Eclipse, Xcode/Objective-C, SQL, Markdown, UML 
 
 # Contact
 <mylittleswift@gmail.com>
