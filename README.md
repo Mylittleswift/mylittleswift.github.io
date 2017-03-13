@@ -3,7 +3,7 @@
 I'm a software engineer (mobile app developer) in SF Bay Area.
 
 # Specialties
-* Android APP development
+* Android app development
 * BLE (Bluetooth Low Energy) and Beacon applications on Android
 * NFC (Near Field Communication) applications on Android
 
@@ -44,7 +44,7 @@ A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam)<br />
 Software engineer since 2014
 
 # Skills
-* Android: Android Studio, Java, Groovy, XML
+* Android: Android Studio, Java, Groovy, XML, JSON
 * Others: Git, SourceTree, JIRA, Firebase, AWS, Eclipse, Xcode, SQL, Markdown, UML 
 
 # Contact
