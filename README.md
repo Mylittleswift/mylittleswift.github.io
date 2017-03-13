@@ -3,8 +3,8 @@
 I'm a software engineer (mobile app developer) in SF Bay Area.
 
 # Specialties
-* Android and iOS APP/SDK development
-* BLE (Bluetooth Low Energy) and Beacon applications on Android and iOS
+* Android APP development
+* BLE (Bluetooth Low Energy) and Beacon applications on Android
 * NFC (Near Field Communication) applications on Android
 
 # Commercial Projects
@@ -41,11 +41,11 @@ A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam)<br />
 
 
 # Professional Experience
-Software engineer since 2014, engineer since 2008
+Software engineer since 2014
 
 # Skills
 * Android: Android Studio, Java, Groovy, XML
-* Others: Git, SourceTree, JIRA, Eclipse, Xcode/Objective-C, SQL, Markdown, UML 
+* Others: Git, SourceTree, JIRA, Firebase, AWS, Eclipse, Xcode, SQL, Markdown, UML 
 
 # Contact
 <mylittleswift@gmail.com>
