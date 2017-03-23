@@ -30,8 +30,8 @@ Under Development
 ---------------------------------------------------------------------------
 Thinfilm Authenticator app is the official authentication service for NFC OpenSense technology. Simply open the app, then touch and hold your phone's NFC touchpoint to the NFC OpenSense label on the product you wish to verify.<br />
 
-<a href='https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en'>
-<img src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height=80/>
+<a href="https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height=80/>
 </a> <br />
 
 <img src="https://lh3.googleusercontent.com/M4IoV2J4kVM0GJJXCQrm3snCDMwte8ttljxESmWq8FFR14Jy8eCzesv9IvlLErxvIeY=h900" width="256"> <img src="https://lh3.googleusercontent.com/EVLUPhjh7QGa0Akm76rOptr540SV3apgXEpqnR9p9vhVzQYlwfMbr39IqYM7EecxrA=h900" width="256">
