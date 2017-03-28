@@ -18,7 +18,7 @@ Fever Scout is a soft wearable thermometer that continuously measures temperatur
 <a>
 
 <a href="https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height=60/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height=40/>
 <a> <br />
 
 
