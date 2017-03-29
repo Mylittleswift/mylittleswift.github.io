@@ -15,14 +15,8 @@ Fever Scout is a soft wearable thermometer that continuously measures temperatur
 
 [![Google play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en)
 
+[![App store]("https://www.ironcounty.net/wp-content/uploads/AppStoreLogo.png" height=60)](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8)
 
-<a href='https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en'>
-<img src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=80> 
-<a> <br />
-
-<a href="https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8">
-<img src="https://www.ironcounty.net/wp-content/uploads/AppStoreLogo.png" height=60>
-<a> <br />
 
 
 <img src="http://a3.mzstatic.com/us/r30/Purple71/v4/10/76/7e/10767ee2-2f94-bb0e-e215-9d109b267fa1/screen696x696.jpeg" width="256">  <img src="http://a5.mzstatic.com/us/r30/Purple71/v4/1d/74/81/1d7481ab-a09b-2214-20af-005da9624775/screen696x696.jpeg" width="256">
