@@ -13,12 +13,12 @@ I'm a software engineer in SF Bay Area.
 ---------------------------------------------
 Fever Scout is a soft wearable thermometer that continuously measures temperature and wirelessly sends that information to your smartphone or tablet.<br />
 
-<a href="https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height=80/>
+<link href="https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height=80> </link>
 <a> <br />
 
 <a href="https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8">
-<img src="https://www.ironcounty.net/wp-content/uploads/AppStoreLogo.png" height=60/>
+<img src="https://www.ironcounty.net/wp-content/uploads/AppStoreLogo.png" height=60>
 <a> <br />
 
 
