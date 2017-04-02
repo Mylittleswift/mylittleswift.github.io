@@ -44,7 +44,7 @@ A library to make BLE easier to use in Android.<br />
 
 [Android-NFC-SDK](https://github.com/Mylittleswift/Android-NFC-SDK/) and [NFC Reader APP](https://github.com/Mylittleswift/NFC-Reader)
 -------------------------------------------------------------------------
-A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and an Demo APP<br />
+A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a Demo APP<br />
 
 
 # Professional Experience
