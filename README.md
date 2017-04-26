@@ -51,9 +51,9 @@ A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a
 Software engineer since 2014
 
 # Skills
-* Languages: Java, Objective-C, Groovy, SQL, Markdown, UML
-* Tools/Platforms: Android Studio, Xcode, Git, SourceTree, JIRA, Firebase, AWS, Eclipse
-* App release engineering and Project management
+* Languages: Java, Objective-C, Groovy, XML, SQL, CSS/HTML, MD, UML
+* Tools/Platforms: Android Studio, Xcode, Git, SourceTree, JIRA, Slack, Firebase, AWS, Eclipse
+* App Release engineering and Product management
 
 # Contact
 <mylittleswift@gmail.com>
