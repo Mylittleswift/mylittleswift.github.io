@@ -48,7 +48,7 @@ A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a
 
 
 # Professional Experience
-Software engineer since 2014
+Software engineer since 2013
 
 # Skills
 * Languages: Java, Swift, Objective-C, Groovy, XML, SQL, MD, UML
