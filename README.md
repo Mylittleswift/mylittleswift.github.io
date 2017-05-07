@@ -1,11 +1,11 @@
 # Welcome! I'm Joey
 
-I'm a software engineer in SF Bay Area.
+I'm a mobile app developer in SF Bay Area.
 
 # Specialties
-* Android App and SDK development
-* BLE (Bluetooth Low Energy) and Beacon applications on Android
-* NFC (Near Field Communication) applications on Android
+* Android/iOS App and SDK development
+* BLE (Bluetooth Low Energy) and Beacon applications on Android/iOS
+* NFC (Near Field Communication) applications on Android/iOS
 
 # Commercial Projects
 
@@ -51,7 +51,7 @@ A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a
 Software engineer since 2014
 
 # Skills
-* Languages: Java, Objective-C, Groovy, XML, SQL, CSS/HTML, MD, UML
+* Languages: Java, Swift, Objective-C, Groovy, XML, SQL, MD, UML
 * Tools/Platforms: Android Studio, Xcode, Git, SourceTree, JIRA, Slack, Firebase, AWS, Eclipse
 * App Release engineering and Product management
 
