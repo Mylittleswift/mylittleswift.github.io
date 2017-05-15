@@ -59,6 +59,6 @@ Software engineer since 2013
 <mylittleswift@gmail.com>
 
 # Blogs
-[Android and iOS Technical Articles and References]( https://mylittleswift.github.io/Andriod-Blogs/)
+[Android and iOS Technical Articles and References](https://mylittleswift.github.io/Andriod-Blogs/)
 
 
