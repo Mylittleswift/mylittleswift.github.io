@@ -57,3 +57,8 @@ Software engineer since 2013
 
 # Contact
 <mylittleswift@gmail.com>
+
+# Blogs
+[Android and iOS Technical Blogs](https://github.com/Mylittleswift/Android-NFC-SDK/)
+
+
