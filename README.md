@@ -58,7 +58,11 @@ Software engineer since 2013
 # Contact
 <mylittleswift@gmail.com>
 
-# Blogs
-[Android and iOS Technical Articles and References](https://mylittleswift.github.io/Andriod-Blogs/)
+# Android Blogs
+[Android Technical Articles and References](https://mylittleswift.github.io/Andriod-Blogs/)
+
+# Algorithms Study
+[Algorithms in Java](https://mylittleswift.github.io/Algorithms_Study/)
+
 
 
