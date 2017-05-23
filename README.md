@@ -5,7 +5,7 @@ I'm a mobile app developer in SF Bay Area.
 # Specialties
 * Android/iOS App and SDK development
 * BLE (Bluetooth Low Energy) and Beacon applications on Android/iOS
-* NFC (Near Field Communication) applications on Android/iOS
+* Abdroid NFC (Near Field Communication) and IoT (Internent of Things) applications
 
 # Commercial Projects
 
