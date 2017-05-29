@@ -4,8 +4,8 @@ I'm a mobile app developer in SF Bay Area.
 
 # Specialties
 * Android/iOS App and SDK development
-* BLE (Bluetooth Low Energy) and Beacon applications on Android/iOS
-* Abdroid NFC (Near Field Communication) and IoT (Internent of Things) applications
+* BLE (Bluetooth Low Energy) and iBeacon applications on Android/iOS
+* NFC (Near Field Communication) and IoT (Internent of Things) applications
 
 # Commercial Projects
 
@@ -57,11 +57,6 @@ Software engineer since 2013
 
 # Contact
 <mylittleswift@gmail.com>
-
-# Android Blogs
-[Android Technical Articles and References](https://mylittleswift.github.io/Andriod-Blogs/)
-
-
 
 
 
