@@ -1,6 +1,6 @@
 # Welcome! I'm Joey
 
-I'm a mobile app developer in SF Bay Area.
+I'm a mobile app engineer in SF Bay Area.
 
 # Specialties
 * Android/iOS App and SDK development
@@ -51,9 +51,9 @@ A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a
 Software engineer since 2013
 
 # Skills
-* Languages: Java, Swift, Objective-C, Groovy, XML, SQL, MD, UML
-* Tools/Platforms: Android Studio, Xcode, Git, SourceTree, JIRA, Slack, Firebase, AWS, Eclipse
-* App Release engineering and Product management
+* Languages: Java, Objective-C, Swift, Groovy, XML, SQL
+* Tools/Platforms: Android Studio, Xcode, Git, SourceTree, JIRA, Firebase, AWS, Eclipse
+* App Release Engineering and Project Management
 
 # Contact
 <mylittleswift@gmail.com>
