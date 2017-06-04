@@ -55,7 +55,8 @@ Software engineer since 2013
 * Tools/Platforms: Android Studio, Xcode, Git, SourceTree, JIRA, Firebase, AWS, Eclipse
 * App Release Engineering and Project Management
 
-# [My Blogs - Android and iOS Technical References](https://mylittleswift.github.io/Andriod-iOS-Blogs/)
+# [My Blogs](https://mylittleswift.github.io/Andriod-iOS-Blogs/)
+Android and iOS Technical References - 活到老，学到老
 
 # Contact
 <mylittleswift@gmail.com>
