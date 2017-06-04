@@ -52,7 +52,7 @@ Software engineer since 2013
 
 # Skills
 * Languages: Java, Objective-C, Swift, SQL
-* Tools/Platforms: Android Studio, Xcode, Eclipse, GitHub, BitBucket, SourceTree, JIRA, DataBase, Firebase, Certified AWS developer
+* Tools/Platforms: Android Studio, Xcode, Eclipse, GitHub, BitBucket, JIRA, DataBase, Firebase, AWS certified developer
 * SDK API design and specification documentation
 * Software Release Engineering and Project Management
 
