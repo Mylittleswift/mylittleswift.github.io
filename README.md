@@ -44,16 +44,17 @@ A library to make BLE easier to use in Android.<br />
 
 [Android-NFC-SDK](https://github.com/Mylittleswift/Android-NFC-SDK/) and [NFC Reader APP](https://github.com/Mylittleswift/NFC-Reader)
 -------------------------------------------------------------------------
-A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a Demo APP<br />
+A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a Demo APP <br />
 
 
 # Professional Experience
 Software engineer since 2013
 
 # Skills
-* Languages: Java, Objective-C, Swift, Groovy, XML, SQL
-* Tools/Platforms: Android Studio, Xcode, Git, SourceTree, JIRA, Firebase, AWS, Eclipse
-* App Release Engineering and Project Management
+* Languages: Java, Objective-C, Swift, SQL
+* Tools/Platforms: Android Studio, Xcode, Eclipse, GitHub, BitBucket, SourceTree, JIRA, DataBase, Firebase, Certified AWS developer
+* SDK API design and specification documentation
+* Software Release Engineering and Project Management
 
 # My Blogs
 [Android and iOS Technical References - 活到老，学到老](https://mylittleswift.github.io/Andriod-iOS-Blogs/)
