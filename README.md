@@ -57,7 +57,7 @@ Software engineer since 2013
 * Software Release Engineering and Project Management
 
 # My Blogs
-[Android and iOS Technical References - "活到老，学到老" :sweat_smile:](https://mylittleswift.github.io/Andriod-iOS-Blogs/)
+[Android and iOS Technical References  "活到老，学到老" :sweat_smile:](https://mylittleswift.github.io/Andriod-iOS-Blogs/)
 
 # Contact
 <mylittleswift@gmail.com>
