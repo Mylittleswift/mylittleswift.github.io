@@ -1,5 +1,7 @@
 theme: jekyll-theme-leap-day
-title: Mylittleswift's home
+title: Mylittleswift's iOS and Android 
+gems:
+  - jemoji
 
 
 
