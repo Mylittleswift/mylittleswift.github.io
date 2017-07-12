@@ -18,6 +18,12 @@ Fever Scout is a soft wearable thermometer that continuously measures temperatur
 
 <img src="http://a3.mzstatic.com/us/r30/Purple71/v4/10/76/7e/10767ee2-2f94-bb0e-e215-9d109b267fa1/screen696x696.jpeg" width="256">  <img src="http://a5.mzstatic.com/us/r30/Purple71/v4/1d/74/81/1d7481ab-a09b-2214-20af-005da9624775/screen696x696.jpeg" width="256">
 
+[PPScout](http://www.chuangfeixin.com/en/Products/niaobu/) <br />
+---------------------------------------------
+An App for smart baby diaper.<br />
+
+[![App store](https://itunes.apple.com/nz/app/cfx-ppscout/id1214771898?mt=8)
+
 
 [Vital Scout](https://Vitalscout.com)<br />
 --------------------------------------------
