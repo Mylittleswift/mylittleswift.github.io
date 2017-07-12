@@ -24,7 +24,7 @@ Fever Scout is a soft wearable thermometer that continuously measures temperatur
 An App for smart baby diaper monitor.<br />
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/nz/app/cfx-ppscout/id1214771898?mt=8)
 
-<img src="http://static.chuangfeixin.com/731525126538386972.jpeg" width="310"><img src="http://a2.mzstatic.com/nz/r30/Purple91/v4/c7/77/1d/c7771d8b-63ba-ab60-6dd5-d6b40ea6ce56/screen696x696.jpeg" width="256"> 
+<img src="http://static.chuangfeixin.com/731525126538386972.jpg" width="310"><img src="http://a2.mzstatic.com/nz/r30/Purple91/v4/c7/77/1d/c7771d8b-63ba-ab60-6dd5-d6b40ea6ce56/screen696x696.jpeg" width="256"> 
 
 
 
