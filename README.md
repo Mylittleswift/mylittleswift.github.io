@@ -16,16 +16,16 @@ Fever Scout is a soft wearable thermometer that continuously measures temperatur
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8)
 [![Google play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en)
 
-
 <img src="http://a3.mzstatic.com/us/r30/Purple71/v4/10/76/7e/10767ee2-2f94-bb0e-e215-9d109b267fa1/screen696x696.jpeg" width="256">  <img src="http://a5.mzstatic.com/us/r30/Purple71/v4/1d/74/81/1d7481ab-a09b-2214-20af-005da9624775/screen696x696.jpeg" width="256">
+
 
 [PPScout](http://www.chuangfeixin.com/en/Products/niaobu/) <br />
 ---------------------------------------------
 An App for smart baby diaper.<br />
-<img src="http://a2.mzstatic.com/nz/r30/Purple91/v4/c7/77/1d/c7771d8b-63ba-ab60-6dd5-d6b40ea6ce56/screen696x696.jpeg" width="256"> <img src="http://static.chuangfeixin.com/731525126538386972.jpg" width="314">
-
-
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/nz/app/cfx-ppscout/id1214771898?mt=8)
+
+<img src="http://a2.mzstatic.com/nz/r30/Purple91/v4/c7/77/1d/c7771d8b-63ba-ab60-6dd5-d6b40ea6ce56/screen696x696.jpeg" width="256"> <img src="http://static.chuangfeixin.com/731525126538386972.jpg" width="310">
+
 
 
 [Vital Scout](https://Vitalscout.com)<br />
