@@ -3,9 +3,10 @@
 I'm a mobile app engineer in SF Bay Area.
 
 # Specialties
-* Android/iOS App and SDK development
-* BLE (Bluetooth Low Energy) and iBeacon applications on Android/iOS
-* NFC (Near Field Communication) and IoT (Internent of Things) applications
+* iOS/Android APP and SDK development
+* BLE (Bluetooth Low Energy) and iBeacon applications on iOS/Android
+* NFC (Near Field Communication) applications on Android
+* Wearable mobile devices hardware and software integrations
 
 # Commercial Projects
 
@@ -61,8 +62,8 @@ A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a
 Software engineer since 2013
 
 # Skills
-* Languages: Java, Objective-C, Swift, SQL
-* Tools/Platforms: Android Studio, Xcode, Eclipse, GitHub, BitBucket, JIRA, DataBase, Firebase, AWS certified developer
+* Languages: Objective-C, Swift, Java, SQL
+* Tools/Platforms: Xcode, AppCode, Android Studio, Eclipse, Git, JIRA, DataBase, AWS certified developer
 * SDK API design and specification documentation
 * Software Release Engineering and Project Management
 
