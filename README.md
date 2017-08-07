@@ -79,7 +79,7 @@ Software engineer since 2013
 # Contact
 <mylittleswift@gmail.com>
 
-<img src="https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/qrcode_github.png">
+[![qrcode](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/qrcode_github.png)]
 
 
 
