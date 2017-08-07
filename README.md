@@ -75,11 +75,11 @@ Software engineer since 2013
 * SDK API design and specification documentation
 * Software Release Engineering and Project Management
 
-# [Developer Notes "活到老，学到老" :sweat_smile:](https://github.com/Mylittleswift/Developer_Notes)
 
 # Contact
 <mylittleswift@gmail.com>
 
+<img src="https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/qrcode_github.png">
 
 
 
