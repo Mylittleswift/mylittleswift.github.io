@@ -75,8 +75,7 @@ Software engineer since 2013
 * SDK API design and specification documentation
 * Software Release Engineering and Project Management
 
-# My Blogs
-[Android and iOS Technical References  "活到老，学到老" :sweat_smile:](https://github.com/Mylittleswift/Andriod-iOS-Blogs) :sweat_smile:
+# [Developer Notes "活到老，学到老" :sweat_smile:](https://github.com/Mylittleswift/Developer_Notes)
 
 # Contact
 <mylittleswift@gmail.com>
