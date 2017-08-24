@@ -1,12 +1,12 @@
 # Welcome! I'm Joey
 
-I'm a mobile app engineer in SF Bay Area.
+I'm a mobile app developer in SF Bay Area.
 
 # Specialties
 * iOS/Android APP and SDK development
 * BLE (Bluetooth Low Energy) and iBeacon applications on iOS/Android
 * NFC (Near Field Communication) applications on Android
-* Wearable mobile devices hardware and software integrations
+* IoTs, Wearable mobile devices hardware and software integrations
 
 # Commercial Projects
 
@@ -40,8 +40,8 @@ An App for senior care.<br />
 
 [Vital Scout](https://Vitalscout.com)<br />
 --------------------------------------------
-Under Development
-
+Wearable Wellness and health monitor
+Under developement
 
 <!--
 [Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)<br />
@@ -67,12 +67,12 @@ A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a
 
 
 # Professional Experience
-Software engineer since 2013
+
 
 # Skills
 * Languages: Objective-C, Swift, Java, SQL
-* Tools/Platforms: Xcode, AppCode, Android Studio, Eclipse, Git, JIRA, DataBase, AWS certified developer
-* SDK API design and specification documentation
+* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, JIRA, DataBase, AWS certified developer
+* SDK API design and documentation
 * Software Release Engineering and Project Management
 
 
