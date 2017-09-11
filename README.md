@@ -5,7 +5,7 @@ I'm a mobile app developer in SF Bay Area.
 # Specialties
 * iOS/Android APP and SDK development
 * BLE (Bluetooth Low Energy) and iBeacon applications in iOS/Android
-* Health and Fitness APP for wearable devices
+* Health and Fitness APP for wearable BLE devices
 
 
 # Commercial Projects
