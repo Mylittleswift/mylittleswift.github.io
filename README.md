@@ -4,9 +4,9 @@ I'm a mobile app developer in SF Bay Area.
 
 # Specialties
 * iOS/Android APP and SDK development
-* BLE (Bluetooth Low Energy) and iBeacon applications on iOS/Android
-* NFC (Near Field Communication) applications on Android
-* IoTs, Wearable mobile devices hardware and software integrations
+* BLE (Bluetooth Low Energy) and iBeacon applications in iOS/Android
+* Health and Fitness APP for wearable devices
+
 
 # Commercial Projects
 
@@ -56,14 +56,9 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 
 # Open-Source Projects
 
-[Android-BLE-SDK](https://github.com/Mylittleswift/Android-BLE-SDK/)
---------------------------------------------------------------------------
-A library to make BLE easier to use in Android.<br />
 
 
-[Android-NFC-SDK](https://github.com/Mylittleswift/Android-NFC-SDK/) and [NFC Reader APP](https://github.com/Mylittleswift/NFC-Reader)
--------------------------------------------------------------------------
-A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a Demo APP <br />
+
 
 
 # Professional Experience
@@ -71,9 +66,9 @@ A library for NFC Applications (NFC tags reader/writer, P2P, Android Beam) and a
 
 # Skills
 * Languages: Objective-C, Swift, Java, SQL
-* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, JIRA, DataBase, AWS certified developer
+* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, JIRA, DataBase
 * SDK API design and documentation
-* Software Release Engineering and Project Management
+* Software Release Engineering
 
 
 # Contact
