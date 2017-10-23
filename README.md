@@ -19,6 +19,8 @@ Fever Scout is a soft wearable thermometer that continuously measures temperatur
 
 <img src="http://a3.mzstatic.com/us/r30/Purple71/v4/10/76/7e/10767ee2-2f94-bb0e-e215-9d109b267fa1/screen696x696.jpeg" width="256">  <img src="http://a5.mzstatic.com/us/r30/Purple71/v4/1d/74/81/1d7481ab-a09b-2214-20af-005da9624775/screen696x696.jpeg" width="256">
 
+[FeverSmart]http://www.nurofen.com.au/feversmart/
+[![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/au/app/feversmart/id1201727706?mt=8)
 
 [PPScout](http://www.chuangfeixin.com/en/Products/niaobu/) <br />
 ---------------------------------------------
