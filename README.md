@@ -1,4 +1,4 @@
-# Welcome to Joey's homepage and project introductions!
+# Welcome to Joey's resume and project introductions!
 
 Hi, I'm Joey. I'm a mobile app developer in SF Bay Area, recently, my interesting/focus is health and fitness app development on iPhones & Apple Watches.
 
@@ -20,6 +20,11 @@ Fever Scout is a soft wearable thermometer that continuously measures temperatur
 
 [FeverSmart](http://www.nurofen.com.au/feversmart/)<br />
 ---------------------------------------------
+The FeverSmart Temperature Monitor connects with the FeverSmart App to continuously and accurately* track your child’s temperature.
+FeverSmart App helps you feel in control while you monitor your child's fever.
+- Indicates on screen whether your child’s temperature is high, moderate or normal.
+- Visual and audible alerts if temperature rises above 38°C
+- Helps you track medication over time.
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/au/app/feversmart/id1201727706?mt=8)
 
 
