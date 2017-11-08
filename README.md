@@ -1,11 +1,11 @@
 # Welcome! I'm Joey
 
-I'm a mobile app developer in SF Bay Area.
+I'm a mobile app developer in SF Bay Area, recently, my interesting/focus is health and fitness app development on iPhones & Apple Watches.
 
 # Specialties
 * iOS/Android APP and SDK development
-* BLE (Bluetooth Low Energy) and iBeacon applications in iOS/Android
-* Health and Fitness APP for wearable BLE devices
+* BLE (Bluetooth Low Energy), iBeacon and NFC applications in iOS/Android
+* Medical and Wellness APP for wearable BLE devices
 
 
 # Commercial Projects
@@ -47,7 +47,7 @@ An App for senior care.<br />
 Wearable Wellness and health monitor
 Under developement
 
-<!--
+
 [Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)<br />
 ---------------------------------------------------------------------------
 Thinfilm Authenticator app is the official authentication service for NFC OpenSense technology. Simply open the app, then touch and hold your phone's NFC touchpoint to the NFC OpenSense label on the product you wish to verify.<br />
@@ -56,7 +56,7 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 
 
 <img src="https://lh3.googleusercontent.com/M4IoV2J4kVM0GJJXCQrm3snCDMwte8ttljxESmWq8FFR14Jy8eCzesv9IvlLErxvIeY=h900" width="256"> <img src="https://lh3.googleusercontent.com/EVLUPhjh7QGa0Akm76rOptr540SV3apgXEpqnR9p9vhVzQYlwfMbr39IqYM7EecxrA=h900" width="256">
--->
+
 
 # Open-Source Projects
 
@@ -70,7 +70,7 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 
 # Skills
 * Languages: Objective-C, Swift, Java, SQL
-* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, JIRA, DataBase
+* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, JIRA, DataBase(SQLite, MySQL)
 * SDK API design and documentation
 * Software Release Engineering
 
