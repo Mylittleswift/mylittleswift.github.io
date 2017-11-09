@@ -65,8 +65,10 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 # Open-Source Projects
 [awesome-ios](https://github.com/vsouza/awesome-ios)<br />
 ----------------------------------------------------------------
+
 [Android NFC SDK](https://github.com/Mylittleswift/Android-NFC-SDK)<br />
 ------------------------------------------------------------------------
+
 [Android BLE SDK](https://github.com/Mylittleswift/Android-NFC-SDK)<br />
 -------------------------------------------------------------------------
 
