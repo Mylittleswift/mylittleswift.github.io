@@ -50,7 +50,7 @@ An App for senior care.<br />
 [Vital Scout](http://vivalnk.com/vitalscout/)<br />
 --------------------------------------------
 A durable, non-invasive, highly accurate, wireless patch for monitoring your stress and physical health.<br />
-<Under developement>
+(Under developement)<br />
 
 <!---
 [Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)<br />
