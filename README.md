@@ -47,8 +47,8 @@ An App for senior care.<br />
 <img src="http://a4.mzstatic.com/nz/r30/Purple128/v4/1b/ec/f4/1becf44a-0fcf-7399-3a17-a6a6389be672/screen696x696.jpeg" width="256"> <img src="http://a1.mzstatic.com/nz/r30/Purple118/v4/34/a7/4c/34a74c78-e676-46a7-6911-58ef45a6c602/screen696x696.jpeg" width="256"> 
 
 
-[Vital Scout](http://vivalnk.com/vitalscout/)<br />
---------------------------------------------
+[Vital Scout](http://vivalnk.com/vitalscout/) <br />
+----------------------------------------------------
 A durable, non-invasive, highly accurate, wireless patch for monitoring your stress and physical health.<br />
 (Under developement)<br />
 
@@ -63,12 +63,12 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 -->
 
 # Open-Source Projects
-[awesome-ios](https://github.com/vsouza/awesome-ios)
--------------------------------------------------------
-[Android NFC SDK](https://github.com/Mylittleswift/Android-NFC-SDK)
---------------------------------------------------------------------
-[Android BLE SDK](https://github.com/Mylittleswift/Android-NFC-SDK)
---------------------------------------------------------------------
+[awesome-ios](https://github.com/vsouza/awesome-ios)<br />
+----------------------------------------------------------------
+[Android NFC SDK](https://github.com/Mylittleswift/Android-NFC-SDK)<br />
+------------------------------------------------------------------------
+[Android BLE SDK](https://github.com/Mylittleswift/Android-NFC-SDK)<br />
+-------------------------------------------------------------------------
 
 
 # Professional Experience
