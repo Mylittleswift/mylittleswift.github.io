@@ -1,6 +1,6 @@
-# Welcome to Joey's Resume and Project Info!
+# Welcome to Joey's Resume and Project Introductions!
 
-Hi, I'm Joey. I'm a mobile app developer in SF Bay Area, recently, my interesting/focus is health and fitness app development on iPhones & Apple Watches.
+Hi, I'm Joey. I'm a mobile app developer (native Android & iOS apps) in SF Bay Area since 2013. Recently, my interesting/focus is health and fitness app development on iPhones & Apple Watches.
 
 # Specialties
 * iOS/Android APP and SDK development
@@ -80,9 +80,8 @@ Software engineer at Vivalnk Inc., Chuangfeixing Inc., TFE Inc.
 # Skills
 * Languages: Objective-C, Swift, Java, SQL
 * Tools/Platforms: Xcode, Android Studio, Eclipse, Git, Github/Bitbucket, Firebase, AWS
-* SDK API design and documentation
-* Software Release Engineering
-
+* APP/SDK architecture/specification design and modeling
+* Software Version Control and Release Engineering
 
 # Contact
 <mylittleswift@gmail.com>
