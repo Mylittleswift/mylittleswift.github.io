@@ -1,4 +1,4 @@
-# Welcome to Joey's resume and project introductions!
+# Welcome to Joey's Resume and Project Info!
 
 Hi, I'm Joey. I'm a mobile app developer in SF Bay Area, recently, my interesting/focus is health and fitness app development on iPhones & Apple Watches.
 
@@ -27,6 +27,8 @@ FeverSmart App helps you feel in control while you monitor your child's fever.
 - Helps you track medication over time. <br />
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/au/app/feversmart/id1201727706?mt=8)
 
+<img src="http://is5.mzstatic.com/image/thumb/Purple128/v4/16/02/d5/1602d531-1a25-6468-0029-3987a5986d90/source/392x696bb.jpg" width="256">  <img src="http://is2.mzstatic.com/image/thumb/Purple118/v4/13/52/15/135215b2-24fa-d9e3-f9c2-07b4126acd9f/source/392x696bb.jpg" width="256">
+
 
 [PPScout](http://www.chuangfeixin.com/en/Products/niaobu/) <br />
 -----------------------------------------------------------------
@@ -46,10 +48,10 @@ An App for senior care.<br />
 <img src="http://a4.mzstatic.com/nz/r30/Purple128/v4/1b/ec/f4/1becf44a-0fcf-7399-3a17-a6a6389be672/screen696x696.jpeg" width="256"> <img src="http://a1.mzstatic.com/nz/r30/Purple118/v4/34/a7/4c/34a74c78-e676-46a7-6911-58ef45a6c602/screen696x696.jpeg" width="256"> 
 
 
-[Vital Scout](https://Vitalscout.com)<br />
+[Vital Scout](http://vivalnk.com/vitalscout/)<br />
 --------------------------------------------
-Wearable Wellness and health monitor
-Under developement
+A durable, non-invasive, highly accurate, wireless patch for monitoring your stress and physical health.<br />
+<Under developement>
 
 <!---
 [Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)<br />
