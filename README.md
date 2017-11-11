@@ -1,6 +1,6 @@
-# Welcome to Joey's Resume and Project Introductions!
+# Welcome to Joey's Resume and Project Intro!
 
-Hi, I'm Joey. I'm a mobile app developer (native Android & iOS apps) in SF Bay Area since 2013. Recently, my interesting/focus is health and fitness app development on iPhones & Apple Watches.
+Hi, I'm Joey. I'm a mobile app developer (native iOS & Android apps) in SF Bay Area since 2013. Recently, my interesting/focus is health and fitness app development on iPhones & Apple Watches.
 
 # Specialties
 * iOS/Android APP and SDK development
@@ -75,7 +75,7 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 
 
 # Professional Experience
-Software engineer at Vivalnk Inc., Chuangfeixing Inc., TFE Inc.
+Software engineer at [VivaLnk Inc.](www.vivalnk.com), [CFX Technology Inc.](www.eldersens.com), [Thinfilm Inc.](www.thinfilm.no)
 
 # Skills
 * Languages: Objective-C, Swift, Java, SQL
