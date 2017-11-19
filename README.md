@@ -49,7 +49,7 @@ An App for senior care.<br />
 
 [Vital Scout](http://vivalnk.com/vitalscout/) <br />
 ----------------------------------------------------
-A durable, non-invasive, highly accurate, wireless patch for monitoring your stress and physical health.<br />
+A durable, non-invasive, highly accurate, wireless patch for monitoring your stress and physical health.
 (Under developement)<br />
 
 <!---
@@ -78,9 +78,9 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 Software engineer at [VivaLnk Inc.](http://www.vivalnk.com)(medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [Thinfilm Electronics Inc.](http://www.thinfilm.no)(Mobile NFC, IoT)
 
 # Skills
-* Languages: Objective-C, Swift, Java, SQL
-* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, Github/Bitbucket, Firebase, AWS
-* APP/SDK architecture/specification design and modeling
+* Languages: Objective-C, Swift, Java, SQL, JSON, XML, Markdown
+* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, Firebase, AWS, Open-source Frameworks
+* APP/SDK design and modeling
 * Software Version Control and Release Engineering
 
 # Contact
