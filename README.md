@@ -79,7 +79,7 @@ Software engineer at [VivaLnk Inc.](http://www.vivalnk.com)(medical devices), [C
 
 # Skills
 * Languages: Objective-C, Swift, Java, SQL, JSON, XML, Markdown
-* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, Firebase, AWS, Open-source Frameworks
+* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, Firebase, AWS, CocoaPods
 * APP/SDK design and modeling
 * Software Version Control and Release Engineering
 
