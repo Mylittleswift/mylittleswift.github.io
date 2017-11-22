@@ -1,11 +1,11 @@
 # Welcome to Joey's Resume and Project Intro!
 
-Hi, I'm Joey. I'm a mobile app developer (native iOS & Android apps) in SF Bay Area since 2013. Recently, my interesting/focus is health and fitness app development on iPhones & Apple Watches.
+Hi, I'm Joey. I'm a mobile app developer (native iOS & Android apps) in SF Bay Area since 2014. Recently, my focus is health and fitness app development on iPhones & Apple Watches.
 
 # Specialties
-* iOS/Android APP and SDK development
-* BLE (Bluetooth Low Energy), iBeacon and NFC applications in iOS/Android
-* Medical and Wellness APP for wearable devices
+* iOS/Android app and SDK development
+* BLE(Bluetooth Low Energy),iBeacon and NFC applications
+* Health and Fitness app integrating with wearable devices
 
 # Commercial Projects
 
@@ -49,10 +49,10 @@ An App for senior care.<br />
 
 [Vital Scout](http://vivalnk.com/vitalscout/) <br />
 ----------------------------------------------------
-A durable, non-invasive, highly accurate, wireless patch for monitoring your stress and physical health.
-(Under developement)<br />
+A durable, non-invasive, highly accurate, wireless patch for monitoring your daily health and fitness.
+(to be published soon)<br />
 
-<!---
+
 [Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)<br />
 ---------------------------------------------------------------------------
 Thinfilm Authenticator app is the official authentication service for NFC OpenSense technology. Simply open the app, then touch and hold your phone's NFC touchpoint to the NFC OpenSense label on the product you wish to verify.<br />
@@ -60,7 +60,7 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 [![Google play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en)
 
 <img src="https://lh3.googleusercontent.com/M4IoV2J4kVM0GJJXCQrm3snCDMwte8ttljxESmWq8FFR14Jy8eCzesv9IvlLErxvIeY=h900" width="256"> <img src="https://lh3.googleusercontent.com/EVLUPhjh7QGa0Akm76rOptr540SV3apgXEpqnR9p9vhVzQYlwfMbr39IqYM7EecxrA=h900" width="256">
--->
+
 
 # Open-Source Projects
 
@@ -75,12 +75,13 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 
 
 # Professional Experience
-Software engineer at [VivaLnk Inc.](http://www.vivalnk.com)(medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [Thinfilm Electronics Inc.](http://www.thinfilm.no)(Mobile NFC, IoT)
+Software engineer since 2014 workig for companies such as [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [Thinfilm Electronics Inc.](http://www.thinfilm.no)(Mobile NFC, IoT)
 
 # Skills
-* Languages: Objective-C, Swift, Java, SQL, JSON, XML, Markdown
-* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, Firebase, AWS, CocoaPods
-* APP/SDK design and modeling
+* Languages: Objective-C, Swift, Java, SQL, JSON, XML, Markdown...
+* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, SourceTress, Firebase, AWS, CocoaPods, JIRA, Slack...
+* App/SDK/API design and modeling
+* Health algorithms development
 * Software Version Control and Release Engineering
 
 # Contact
