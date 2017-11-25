@@ -1,4 +1,4 @@
-# Welcome to Joey's Resume and Project Intro!
+# Welcome to Joey's Resume and Project Info!
 
 Hi, I'm Joey. I'm a mobile app developer (native iOS & Android apps) in SF Bay Area since 2014. Recently, my focus is health and fitness app development on iPhones & Apple Watches.
 
@@ -62,7 +62,7 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 <img src="https://lh3.googleusercontent.com/M4IoV2J4kVM0GJJXCQrm3snCDMwte8ttljxESmWq8FFR14Jy8eCzesv9IvlLErxvIeY=h900" width="256"> <img src="https://lh3.googleusercontent.com/EVLUPhjh7QGa0Akm76rOptr540SV3apgXEpqnR9p9vhVzQYlwfMbr39IqYM7EecxrA=h900" width="256">
 
 
-# Open-Source Projects and Open-Scource Frameworks Used in Practice
+# Open-Source Projects and Open-Scource Frameworks Used
 
 #### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)  
 #### [Masonry](https://github.com/SnapKit/Masonry)
