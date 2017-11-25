@@ -64,15 +64,15 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 
 # Open-Source Projects and Open-Scource Frameworks in apps
 
-### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)  
-### [Masonry](https://github.com/SnapKit/Masonry)
-### [Charts](https://github.com/danielgindi/Charts) 
-### [YYKit](https://github.com/ibireme/YYKit)
-### [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
-### [fmdb](https://github.com/ccgus/fmdb)
-### [awesome-ios](https://github.com/vsouza/awesome-ios)
-### [Android NFC SDK](https://github.com/Mylittleswift/Android-NFC-SDK)(self-developed)
-### [Android BLE SDK](https://github.com/Mylittleswift/Android-NFC-SDK)(self-developed)
+#### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)  
+#### [Masonry](https://github.com/SnapKit/Masonry)
+#### [Charts](https://github.com/danielgindi/Charts) 
+#### [YYKit](https://github.com/ibireme/YYKit)
+#### [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+#### [fmdb](https://github.com/ccgus/fmdb)
+#### [awesome-ios](https://github.com/vsouza/awesome-ios)
+#### [Android NFC SDK](https://github.com/Mylittleswift/Android-NFC-SDK)(self-developed)
+#### [Android BLE SDK](https://github.com/Mylittleswift/Android-NFC-SDK)(self-developed)
 
 
 # Professional Experience
