@@ -63,14 +63,16 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 
 
 # Open-Source Projects and Open-Scource Frameworks Used
-
-#### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)  
+### iOS:
 #### [Masonry](https://github.com/SnapKit/Masonry)
 #### [Charts](https://github.com/danielgindi/Charts) 
 #### [YYKit](https://github.com/ibireme/YYKit)
 #### [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 #### [fmdb](https://github.com/ccgus/fmdb)
-#### [awesome-ios](https://github.com/vsouza/awesome-ios)
+#### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+### Android:
+#### [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+#### [butterknife](https://github.com/JakeWharton/butterknife)
 #### [Android NFC SDK](https://github.com/Mylittleswift/Android-NFC-SDK)(self-developed)
 #### [Android BLE SDK](https://github.com/Mylittleswift/Android-NFC-SDK)(self-developed)
 
@@ -79,8 +81,8 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 Software engineer since 2014 workig for companies such as [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [Thinfilm Electronics Inc.](http://www.thinfilm.no)(Mobile NFC, IoT)
 
 # Skills
-* Languages: Objective-C, Swift, Java, SQL, JSON, XML, Markdown...
-* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, SourceTress, Firebase, AWS, CocoaPods, JIRA, Slack...
+* Languages: Objective-C, Swift, Java, SQL, JSON, XML, Markdown
+* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, SourceTress, CocoaPods, Testflight, Firebase, AWS, JIRA, Slack...
 * App/SDK/API design and modeling
 * Health algorithms development
 * Software Version Control and Release Engineering
