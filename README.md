@@ -9,6 +9,15 @@ Hi, I'm Joey. I'm a mobile app developer (native iOS & Android apps) in SF Bay A
 
 # Commercial Projects
 
+[Vital Scout](http://vivalnk.com/vitalscout/) <br />
+----------------------------------------------------
+A durable, non-invasive, highly accurate, wireless patch for monitoring your daily health and fitness. Redefine wellness with Vital Scout. Enjoy a healthier lifestyle with the help of the Vital Scout app and wellness patch. Being healthy is more than just counting the number of steps you take. With Vital Scout, you can accurately measure levels of stress, activity, recovery, and sleep - all with a small, flexible patch.
+ACCURATE HEART RATE: With Vital Scout’s ECG-based technology, you can accurately track your heart rate and heart rate variability (HRV).<br />
+[![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/us/app/vital-scout/id1227969468?mt=8)
+
+<img src="http://is1.mzstatic.com/image/thumb/Purple118/v4/28/f4/d4/28f4d479-c36f-9e2a-388a-3faa2e88abb5/source/392x696bb.jpg" width="256">  <img src="http://is2.mzstatic.com/image/thumb/Purple128/v4/92/61/a5/9261a5ab-7718-09ad-86ca-6899a087f903/source/392x696bb.jpg" width="256">
+
+
 [Fever Scout](https://feverscout.com)<br />
 ---------------------------------------------
 Fever Scout is a soft wearable thermometer that continuously measures temperature and wirelessly sends that information to your smartphone or tablet.<br />
@@ -46,11 +55,6 @@ An App for senior care.<br />
 
 <img src="http://a4.mzstatic.com/nz/r30/Purple128/v4/1b/ec/f4/1becf44a-0fcf-7399-3a17-a6a6389be672/screen696x696.jpeg" width="256"> <img src="http://a1.mzstatic.com/nz/r30/Purple118/v4/34/a7/4c/34a74c78-e676-46a7-6911-58ef45a6c602/screen696x696.jpeg" width="256"> 
 
-
-[Vital Scout](http://vivalnk.com/vitalscout/) <br />
-----------------------------------------------------
-A durable, non-invasive, highly accurate, wireless patch for monitoring your daily health and fitness.
-(to be published soon)<br />
 
 <!---
 [Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)<br />
