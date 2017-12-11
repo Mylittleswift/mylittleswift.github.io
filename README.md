@@ -52,7 +52,7 @@ An App for senior care.<br />
 A durable, non-invasive, highly accurate, wireless patch for monitoring your daily health and fitness.
 (to be published soon)<br />
 
-<---
+<!---
 [Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)<br />
 ---------------------------------------------------------------------------
 Thinfilm Authenticator app is the official authentication service for NFC OpenSense technology. Simply open the app, then touch and hold your phone's NFC touchpoint to the NFC OpenSense label on the product you wish to verify.<br />
@@ -60,7 +60,7 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 [![Google play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en)
 
 <img src="https://lh3.googleusercontent.com/M4IoV2J4kVM0GJJXCQrm3snCDMwte8ttljxESmWq8FFR14Jy8eCzesv9IvlLErxvIeY=h900" width="256"> <img src="https://lh3.googleusercontent.com/EVLUPhjh7QGa0Akm76rOptr540SV3apgXEpqnR9p9vhVzQYlwfMbr39IqYM7EecxrA=h900" width="256">
---->
+-->
 
 # Open-Source Projects and Open-Scource Frameworks Used
 ### iOS:
