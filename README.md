@@ -67,7 +67,7 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 <img src="https://lh3.googleusercontent.com/M4IoV2J4kVM0GJJXCQrm3snCDMwte8ttljxESmWq8FFR14Jy8eCzesv9IvlLErxvIeY=h900" width="256"> <img src="https://lh3.googleusercontent.com/EVLUPhjh7QGa0Akm76rOptr540SV3apgXEpqnR9p9vhVzQYlwfMbr39IqYM7EecxrA=h900" width="256">
 -->
 
-# Open-Source Projects and Open-Scource Frameworks Used
+# Open-Source Projects and Frameworks Experience
 ### iOS:
 #### [Masonry](https://github.com/SnapKit/Masonry)
 #### [Charts](https://github.com/danielgindi/Charts) 
@@ -75,15 +75,10 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 #### [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 #### [fmdb](https://github.com/ccgus/fmdb)
 #### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
-### Android:
-#### [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
-#### [butterknife](https://github.com/JakeWharton/butterknife)
-#### [Android NFC SDK](https://github.com/Mylittleswift/Android-NFC-SDK)(self-developed)
-#### [Android BLE SDK](https://github.com/Mylittleswift/Android-NFC-SDK)(self-developed)
 
 
 # Professional Experience
-Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [SKT LAB](http://www.sktlab.com/) (custom software services).
+Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [Reckitt Benckiser](http://www.nurofen.com.au/our-products/temperature-monitors/)(Consumer health, hygiene and home products).
 
 # Skills
 * Languages: Objective-C, Swift, Java, SQL, JSON, XML, Markdown
