@@ -1,10 +1,10 @@
-# Welcome to Joey's Resume and Project Info!
+# Welcome to My Project Page!
 
 Hi, I'm Joey. I'm a mobile app developer (native iOS & Android apps) in SF Bay Area since 2014. Recently, my focus is health and fitness app development on iPhones & Apple Watches.
 
 # Specialties
-* iOS/Android app and SDK development
-* BLE(Bluetooth Low Energy),iBeacon and NFC applications
+* iOS app and SDK development
+* BLE(Bluetooth Low Energy), iBeacon and sensor applications
 * Health/Fitness and Medical apps, and integration with bluetooth devices
 
 # Commercial Projects
