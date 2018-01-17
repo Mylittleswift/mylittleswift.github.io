@@ -83,7 +83,7 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 
 
 # Professional Experience
-Software engineer since 2014 workig for companies such as [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [Thinfilm Electronics Inc.](http://www.thinfilm.no)(Mobile NFC, IoT)
+Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [SKT LAB](http://www.sktlab.com/) (custom software services).
 
 # Skills
 * Languages: Objective-C, Swift, Java, SQL, JSON, XML, Markdown
