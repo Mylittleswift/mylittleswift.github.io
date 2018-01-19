@@ -68,7 +68,6 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 -->
 
 # Open-Source Projects and Frameworks Experience
-### iOS:
 #### [Masonry](https://github.com/SnapKit/Masonry)
 #### [Charts](https://github.com/danielgindi/Charts) 
 #### [YYKit](https://github.com/ibireme/YYKit)
@@ -85,7 +84,7 @@ Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable m
 * Tools/Platforms: Xcode, Android Studio, Eclipse, Git, SourceTress, CocoaPods, Testflight, Firebase, AWS, JIRA, Slack...
 * App/SDK/API design and modeling
 * Health algorithms development
-* Software Version Control and Release Engineering
+* Software Release Engineering
 
 # Contact
 <mylittleswift@gmail.com>
