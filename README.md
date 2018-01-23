@@ -14,7 +14,6 @@ Hi, I'm Joey. I'm a mobile app developer in SF Bay Area since 2014. Recently, my
 A durable, non-invasive, highly accurate, wireless patch for monitoring your daily health and fitness. Redefine wellness with Vital Scout. Enjoy a healthier lifestyle with the help of the Vital Scout app and wellness patch. Being healthy is more than just counting the number of steps you take. With Vital Scout, you can accurately measure levels of stress, activity, recovery, and sleep - all with a small, flexible patch.
 ACCURATE HEART RATE: With Vital Scout’s ECG-based technology, you can accurately track your heart rate and heart rate variability (HRV).<br />
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/us/app/vital-scout/id1227969468?mt=8)
-[![Google play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.vivalnk.vitalscout&hl=af)
 
 <img src="http://is1.mzstatic.com/image/thumb/Purple118/v4/28/f4/d4/28f4d479-c36f-9e2a-388a-3faa2e88abb5/source/392x696bb.jpg" width="256">  <img src="http://is2.mzstatic.com/image/thumb/Purple128/v4/92/61/a5/9261a5ab-7718-09ad-86ca-6899a087f903/source/392x696bb.jpg" width="256">
 
@@ -24,7 +23,6 @@ ACCURATE HEART RATE: With Vital Scout’s ECG-based technology, you can accurate
 Fever Scout is a soft wearable thermometer that continuously measures temperature and wirelessly sends that information to your smartphone or tablet.<br />
 
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8)
-[![Google play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.vivalnk.feverscout&hl=en)
 
 <img src="http://a3.mzstatic.com/us/r30/Purple71/v4/10/76/7e/10767ee2-2f94-bb0e-e215-9d109b267fa1/screen696x696.jpeg" width="256">  <img src="http://a5.mzstatic.com/us/r30/Purple71/v4/1d/74/81/1d7481ab-a09b-2214-20af-005da9624775/screen696x696.jpeg" width="256">
 
@@ -57,16 +55,6 @@ An App for senior care.<br />
 <img src="http://a4.mzstatic.com/nz/r30/Purple128/v4/1b/ec/f4/1becf44a-0fcf-7399-3a17-a6a6389be672/screen696x696.jpeg" width="256"> <img src="http://a1.mzstatic.com/nz/r30/Purple118/v4/34/a7/4c/34a74c78-e676-46a7-6911-58ef45a6c602/screen696x696.jpeg" width="256"> 
 
 
-<!---
-[Thinfilm Authenticator](http://thinfilm.no/products-nfc-solutions/)<br />
----------------------------------------------------------------------------
-Thinfilm Authenticator app is the official authentication service for NFC OpenSense technology. Simply open the app, then touch and hold your phone's NFC touchpoint to the NFC OpenSense label on the product you wish to verify.<br />
-
-[![Google play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=no.thinfilm.opensenseauth&hl=en)
-
-<img src="https://lh3.googleusercontent.com/M4IoV2J4kVM0GJJXCQrm3snCDMwte8ttljxESmWq8FFR14Jy8eCzesv9IvlLErxvIeY=h900" width="256"> <img src="https://lh3.googleusercontent.com/EVLUPhjh7QGa0Akm76rOptr540SV3apgXEpqnR9p9vhVzQYlwfMbr39IqYM7EecxrA=h900" width="256">
--->
-
 # Open-Source Projects and Frameworks Experience
 #### [Masonry](https://github.com/SnapKit/Masonry)
 #### [Charts](https://github.com/danielgindi/Charts) 
@@ -74,14 +62,14 @@ Thinfilm Authenticator app is the official authentication service for NFC OpenSe
 #### [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 #### [fmdb](https://github.com/ccgus/fmdb)
 #### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
-
+#### [awesome-ios](https://github.com/vsouza/awesome-ios)
 
 # Professional Experience
 Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [Reckitt Benckiser](http://www.nurofen.com.au/our-products/temperature-monitors/)(Consumer health, hygiene and home products).
 
 # Skills
-* Languages: Objective-C, Swift, Java, SQL, JSON, XML, Markdown
-* Tools/Platforms: Xcode, Android Studio, Eclipse, Git, SourceTress, CocoaPods, Testflight, Firebase, AWS, JIRA, Slack...
+* Programming languages: Objective-C, Swift, Java, SQL
+* Tools/Platforms: Xcode, Git, Gihub, Bitbucket, SourceTree, etc.
 * App/SDK/API design and modeling
 * Health algorithms development
 * Software Release Engineering
