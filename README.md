@@ -68,8 +68,8 @@ An App for senior care.<br />
 Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [Reckitt Benckiser](http://www.nurofen.com.au/our-products/temperature-monitors/)(Consumer health, hygiene and home products).
 
 # Skills
-* Programming languages: Objective-C, Swift, Java, SQL
-* Tools/Platforms: Xcode, Git, Gihub, Bitbucket, SourceTree, etc.
+* Programming languages: Objective-C, C, Swift, Java, SQL
+* Tools/Platforms: Xcode, Git, Gitlab, Gihub, Bitbucket, SourceTree, Eclipse, AWS, Firebase, etc.
 * App/SDK/API design and modeling
 * Health algorithms development
 * Software Release Engineering
