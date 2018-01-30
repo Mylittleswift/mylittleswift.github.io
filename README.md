@@ -4,7 +4,7 @@ Hi, I'm Joey. I'm a mobile app developer in SF Bay Area since 2014. Recently, my
 
 # Specialties
 * iOS/WatchOS app and SDK development
-* BLE(Bluetooth Low Energy), iBeacon and sensor applications
+* BLE(Bluetooth Low Energy), iBeacon, NFC and sensor applications
 * Health/Fitness and Medical apps, and integration with bluetooth devices
 
 # Commercial Projects
