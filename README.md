@@ -31,7 +31,7 @@ Fever Scout is a soft wearable thermometer that continuously measures temperatur
 FeverSense is a wearable thermometer that continuously keeps track of your child’s temperature when they’re sick. The flexible, comfortable monitor is positioned in your child’s armpit and wirelessly sends accurate, real-time temperature readings to your smart device. With a single charge, you can track your child’s temperature for up to 7 days. If your child’s temperature rises, the connected FeverSense app will alert you, so you can respond immediately.<br />
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/us/app/enfasmart-feversense/id1356577835?mt=8)
 
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/84/21/1d/84211d4b-acd9-9d03-6559-594cfe86acff/pr_source.jpg" width="256">  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/64/4b/22/644b220b-5a3f-a79c-0acd-74d5cde9b81f/pr_source.jpg" width="256">
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/84/21/1d/84211d4b-acd9-9d03-6559-594cfe86acff/pr_source.jpg/300x0w.jpg" width="256">  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/e6/79/b8/e679b885-09a9-b3e0-06af-c6d436a2afa4/pr_source.jpg/300x0w.jpg" width="256">
 
 
 [FeverSmart](http://www.nurofen.com.au/feversmart/)<br />
@@ -47,7 +47,7 @@ The FeverSmart Temperature Monitor connects with the FeverSmart App to continuou
 
 [DiaperSens](http://www.eldersens.com) <br />
 ---------------------------------------------
-An App for senior care.<br />
+Real-time adult diaper monitoring and change notification. Best accuracy achieved through proprietary algorithms. Data analytics for personalized care. Reduce labor cost & care liability. Ideal for nursing homes, assisted living facilities, and in-home elderly care. <br />
 
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/nz/app/diapersens/id1225117992?mt=8)
 
