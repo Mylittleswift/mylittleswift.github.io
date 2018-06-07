@@ -1,9 +1,9 @@
 # Welcome to My Resume and Project Intro!
 
-Hi, I'm Joey. I'm a mobile app developer on iPhones, iPads & Apple Watches.
+Hi, I'm Joey. I'm a mobile app developer on iPhones, iPads & Apple Watches, living in Bay Area.
 
 # Specialties
-* iOS App and SDK development, specially on Health and Fitness, Medical applications
+* iOS App and SDK development, specially in Health and Fitness, Medical applications
 * BLE(Bluetooth Low Energy), iBeacon, NFC and sensor applications, iOS interacting with Wearable devices
 
 # Commercial Projects
@@ -57,7 +57,7 @@ Real-time adult diaper monitoring and change notification. Best accuracy achieve
 # Open-Source Projects and Frameworks Experience
 
 #### [awesome-ios](https://github.com/vsouza/awesome-ios) - Contributed open-source iOS frameworks
-#### [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - translated the swift offical book in Chinese
+#### [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - Translated the swift offical book in Chinese
 
 # Professional Experience
 Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [ElderSens Inc.](http://www.eldersens.com)(medical devices), [Reckitt Benckiser](http://www.nurofen.com.au/our-products/temperature-monitors/)(Consumer health, hygiene and home products).
