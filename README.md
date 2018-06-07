@@ -1,6 +1,6 @@
 # Welcome to My Resume and Project Intro!
 
-Hi, I'm Joey. I'm a mobile app developer on iPhones, iPads & Apple Watches, living in Bay Area.
+Hi, I'm Joey. I'm a mobile app developer on iPhones, iPads & Apple Watches.
 
 # Specialties
 * iOS App and SDK development, specially in Health and Fitness, Medical applications
