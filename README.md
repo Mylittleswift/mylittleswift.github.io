@@ -1,11 +1,10 @@
 # Welcome to My Resume and Project Intro!
 
-Hi, I'm Joey. I'm a mobile app developer in SF Bay Area since 2014. Recently, my focus is health and fitness app development on iPhones, iPads & Apple Watches.
+Hi, I'm Joey. I'm a mobile app developer on iPhones, iPads & Apple Watches.
 
 # Specialties
-* iOS/WatchOS app and SDK development
-* BLE(Bluetooth Low Energy), iBeacon, NFC and sensor applications
-* Health/Fitness and Medical apps, and integration with bluetooth devices
+* iOS App and SDK development, specially on Health and Fitness, Medical applications
+* BLE(Bluetooth Low Energy), iBeacon, NFC and sensor applications, iOS interacting with Wearable devices
 
 # Commercial Projects
 
@@ -26,6 +25,15 @@ Fever Scout is a soft wearable thermometer that continuously measures temperatur
 
 <img src="http://a3.mzstatic.com/us/r30/Purple71/v4/10/76/7e/10767ee2-2f94-bb0e-e215-9d109b267fa1/screen696x696.jpeg" width="256">  <img src="http://a5.mzstatic.com/us/r30/Purple71/v4/1d/74/81/1d7481ab-a09b-2214-20af-005da9624775/screen696x696.jpeg" width="256">
 
+
+[Enfasmart FeverSense](https://www.enfasmart.com)<br />
+--------------------------------------------------------
+FeverSense is a wearable thermometer that continuously keeps track of your child’s temperature when they’re sick. The flexible, comfortable monitor is positioned in your child’s armpit and wirelessly sends accurate, real-time temperature readings to your smart device. With a single charge, you can track your child’s temperature for up to 7 days. If your child’s temperature rises, the connected FeverSense app will alert you, so you can respond immediately.<br />
+[![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/us/app/enfasmart-feversense/id1356577835?mt=8)
+
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/84/21/1d/84211d4b-acd9-9d03-6559-594cfe86acff/pr_source.jpg" width="256">  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/64/4b/22/644b220b-5a3f-a79c-0acd-74d5cde9b81f/pr_source.jpg" width="256">
+
+
 [FeverSmart](http://www.nurofen.com.au/feversmart/)<br />
 --------------------------------------------------------
 The FeverSmart Temperature Monitor connects with the FeverSmart App to continuously and accurately track your child’s temperature. FeverSmart App helps you feel in control while you monitor your child's fever.
@@ -35,15 +43,6 @@ The FeverSmart Temperature Monitor connects with the FeverSmart App to continuou
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/au/app/feversmart/id1201727706?mt=8)
 
 <img src="http://is5.mzstatic.com/image/thumb/Purple128/v4/16/02/d5/1602d531-1a25-6468-0029-3987a5986d90/source/392x696bb.jpg" width="256">  <img src="http://is2.mzstatic.com/image/thumb/Purple118/v4/13/52/15/135215b2-24fa-d9e3-f9c2-07b4126acd9f/source/392x696bb.jpg" width="256">
-
-
-[PPScout](http://www.chuangfeixin.com/en/Products/niaobu/) <br />
------------------------------------------------------------------
-An App for smart baby diaper monitor.<br />
-
-[![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/nz/app/cfx-ppscout/id1214771898?mt=8)
-
-<img src="http://static.chuangfeixin.com/731525126538386972.jpg" width="310"> <img src="http://a2.mzstatic.com/nz/r30/Purple111/v4/14/4e/75/144e75af-3f72-76c3-ada5-a9133cd33f6d/screen696x696.jpeg" width="256"> 
 
 
 [DiaperSens](http://www.eldersens.com) <br />
@@ -56,23 +55,20 @@ An App for senior care.<br />
 
 
 # Open-Source Projects and Frameworks Experience
-#### [Masonry](https://github.com/SnapKit/Masonry)
-#### [Charts](https://github.com/danielgindi/Charts) 
-#### [YYKit](https://github.com/ibireme/YYKit)
-#### [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
-#### [fmdb](https://github.com/ccgus/fmdb)
-#### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
-#### [awesome-ios](https://github.com/vsouza/awesome-ios)
+
+#### [awesome-ios](https://github.com/vsouza/awesome-ios) - Contributed open-source iOS frameworks
+#### [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - translated the swift offical book in Chinese
 
 # Professional Experience
-Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [CFX Technology Inc.](http://www.eldersens.com)(medical devices), [Reckitt Benckiser](http://www.nurofen.com.au/our-products/temperature-monitors/)(Consumer health, hygiene and home products).
+Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [ElderSens Inc.](http://www.eldersens.com)(medical devices), [Reckitt Benckiser](http://www.nurofen.com.au/our-products/temperature-monitors/)(Consumer health, hygiene and home products).
 
 # Skills
-* Programming languages: Objective-C, C, Swift, Java, SQL
-* Tools/Platforms: Xcode, Git, Gitlab, Gihub, Bitbucket, SourceTree, Eclipse, AWS, Firebase, etc.
+* Programming languages: Objective-C, Swift, Java, SQL
+* Tools/Platforms: Xcode, Git, Gitlab, Github, Bitbucket, SourceTree, JIRA, Eclipse, AWS, Firebase, Android Studio, etc.
 * App/SDK/API design and modeling
-* Health algorithms development
+* Health/Fitness algorithms development
 * Software Release Engineering
+* App Store Distribution
 
 # Contact
 <mylittleswift@gmail.com>
