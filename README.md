@@ -1,10 +1,10 @@
-# Welcome to My Resume and Project Intro!
+# Welcome to My Pages!
 
-Hi, I'm Joey. I'm a mobile app developer on iPhones, iPads & Apple Watches.
+Hi, I'm Joey. I'm a mobile app developer working on iOS/WatchOS platforms.
 
 # Specialties
-* iOS App and SDK development, specially in Health and Fitness, Medical applications
-* BLE(Bluetooth Low Energy), iBeacon, NFC and sensor applications, iOS interacting with Wearable devices
+* iOS App and SDK development, specially in Health and Fitness, Medical applications, Internet of Things, Augmented Reality
+* BLE(Bluetooth Low Energy), iBeacon, NFC and sensor applications, and Smart Wearable devices
 
 # Commercial Projects
 
@@ -73,7 +73,6 @@ Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable m
 # Contact
 <mylittleswift@gmail.com>
 
-![qrcode](https://github.com/Mylittleswift/mylittleswift.github.io/blob/master/qrcode_github.png?raw=true)
 
 
 
