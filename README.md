@@ -1,6 +1,6 @@
 # Welcome to My Pages!
 
-Hi, I'm Joey. I'm a mobile app developer working on iOS/WatchOS platforms.
+Hi, I'm Joey. I'm a mobile app developer focusing on iOS/WatchOS platforms.
 
 # Specialties
 * iOS App and SDK development, specially in Health and Fitness, Medical applications, Internet of Things, Augmented Reality
@@ -69,6 +69,7 @@ Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable m
 * Health/Fitness algorithms development
 * Software Release Engineering
 * App Store Distribution
+* Working experience on these iOS SDKs: Foundation, UIKit, WatchKit, Core Animation, Core Graphics, Core Data, Core Foundation, Core Location, HealthKit, WatchConnectiviy, Core Bluetooth, Core NFC.
 
 # Contact
 <mylittleswift@gmail.com>
