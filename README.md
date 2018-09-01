@@ -67,9 +67,9 @@ Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable m
 * Tools/Platforms: Xcode, Git, Gitlab, Github, Bitbucket, SourceTree, JIRA, Eclipse, AWS, Firebase, Android Studio, etc.
 * App/SDK/API design and modeling
 * Health/Fitness algorithms development
-* Software Release Engineering
-* App Store Distribution
-* Working experience on these iOS SDKs: Foundation, UIKit, WatchKit, Core Animation, Core Graphics, Core Data, Core Foundation, Core Location, HealthKit, WatchConnectiviy, Core Bluetooth, Core NFC.
+* Software Version Controll and Release Engineering
+* App Store/Google Play Store Distribution
+* Working experience on these iOS SDKs: Foundation, UIKit, WatchKit, Core Animation, Core Graphics, Core Data, Core Foundation, Core Location, HealthKit, WatchConnectiviy, Core Bluetooth, Core NFC, ARKit.
 
 # Contact
 <mylittleswift@gmail.com>
