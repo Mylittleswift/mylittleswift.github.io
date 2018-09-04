@@ -58,6 +58,7 @@ Real-time adult diaper monitoring and change notification. Best accuracy achieve
 
 #### [awesome-ios](https://github.com/vsouza/awesome-ios) - Contributed open-source iOS frameworks
 #### [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - Translated the swift offical book in Chinese
+### [iOS Bluetooth SDK](https://github.com/coolnameismy/BabyBluetooth)
 
 # Professional Experience
 Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [ElderSens Inc.](http://www.eldersens.com)(medical devices), [Reckitt Benckiser](http://www.nurofen.com.au/our-products/temperature-monitors/)(Consumer health, hygiene and home products).
