@@ -1,10 +1,11 @@
 # Welcome to My Pages!
 
-Hi, I'm Joey. I'm a mobile app developer focusing on iOS/WatchOS platforms.
+Hi, I'm Joey. I'm a mobile app developer with experince on iOS and Android.
 
 # Specialties
 * iOS App and SDK development, specially in Health and Fitness, Medical applications, Internet of Things, Augmented Reality
 * BLE(Bluetooth Low Energy), iBeacon, NFC and sensor applications, and Smart Wearable devices
+* UI/UX and product improvement
 
 # Commercial Projects
 
@@ -61,7 +62,7 @@ Real-time adult diaper monitoring and change notification. Best accuracy achieve
 ### [iOS Bluetooth SDK](https://github.com/coolnameismy/BabyBluetooth)
 
 # Professional Experience
-Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [ElderSens Inc.](http://www.eldersens.com)(medical devices), [Reckitt Benckiser](http://www.nurofen.com.au/our-products/temperature-monitors/)(Consumer health, hygiene and home products).
+Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [ElderSens Inc.](http://www.eldersens.com)(medical devices), [Reckitt Benckiser](http://www.nurofen.com.au/our-products/temperature-monitors/)(Consumer health, hygiene and home products), etc.
 
 # Skills
 * Programming languages: Objective-C, Swift, Java, SQL
