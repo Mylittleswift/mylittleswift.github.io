@@ -62,7 +62,7 @@ Real-time adult diaper monitoring and change notification. Best accuracy achieve
 ### [iOS Bluetooth SDK](https://github.com/coolnameismy/BabyBluetooth)
 
 # Professional Experience
-Mobile developer since 2014 at [VivaLnk Inc.](http://www.vivalnk.com)(wearable medical devices), [ElderSens Inc.](http://www.eldersens.com)(medical devices), [Reckitt Benckiser](http://www.nurofen.com.au/our-products/temperature-monitors/)(Consumer health, hygiene and home products), etc.
+Mobile development work for TFE, VivaLnk, ElderSens.com, Reckitt Benckiser, etc.
 
 # Skills
 * Programming languages: Objective-C, Swift, Java, SQL
