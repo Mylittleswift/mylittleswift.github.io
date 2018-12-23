@@ -3,9 +3,11 @@
 Hi, I'm Joey. I'm a mobile app developer with experince on iOS and Android.
 
 # Specialties
-* iOS App and SDK development, specially in Health and Fitness, Medical applications, Internet of Things, Augmented Reality
-* BLE(Bluetooth Low Energy), iBeacon, NFC and sensor applications, and Smart Wearable devices
-* UI/UX and product improvement
+* iOS App and SDK development, specially in Mobile Medical Applications, Health and Fitness, Internet of Things
+* Bluetooth Low Energy (BLE), iBeacon, NFC and sensor applications, and Smart Wearable devices
+* App test/verification automation and version releases
+* UI/UX design
+
 
 # Commercial Projects
 
@@ -65,8 +67,8 @@ Real-time adult diaper monitoring and change notification. Best accuracy achieve
 Mobile development work for TFE, VivaLnk, ElderSens.com, Reckitt Benckiser, etc.
 
 # Skills
-* Programming languages: Objective-C, Swift, Java, SQL
-* Tools/Platforms: Xcode, Git, Gitlab, Github, Bitbucket, SourceTree, JIRA, Eclipse, AWS, Firebase, Android Studio, etc.
+* Programming languages: Objective-C, Swift, Java, Python, SQL
+* Tools/Platforms: Xcode, Git, Gitlab, Github, Bitbucket, SourceTree, JIRA, Eclipse, AWS, Fabric (Crashlytics), Android Studio, Fastlane, Appium, etc.
 * App/SDK/API design and modeling
 * Health/Fitness algorithms development
 * Software Version Controll and Release Engineering
