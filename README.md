@@ -66,8 +66,8 @@ Real-time adult diaper monitoring and change notification. Best accuracy achieve
 Mobile development work for TFE, VivaLnk, ElderSens.com, Reckitt Benckiser, etc.
 
 # Skills
-* Programming languages: Objective-C, Swift, Java, Python, SQL
-* Tools/Platforms: Xcode, Git, Gitlab, Github, Bitbucket, SourceTree, JIRA, Eclipse, AWS, Fabric (Crashlytics), Android Studio, Fastlane, Appium, etc.
+* Programming languages: Swift/Objective-C for iOS, Kotlin/Java for Android, Python for Scripting and Test
+* Tools/Platforms: Xcode, Git, Gitlab, Github, Bitbucket, SourceTree, JIRA, Eclipse, AWS, Fabric (Crashlytics), Android Studio, Fastlane, Appium, Sketch, Zeplin, etc.
 * App/SDK/API design and modeling
 * Health/Fitness algorithms development
 * Software Version Controll and Release Engineering
