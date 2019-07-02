@@ -66,13 +66,13 @@ Real-time adult diaper monitoring and change notification. Best accuracy achieve
 Mobile development work for TFE, VivaLnk, ElderSens.com, Reckitt Benckiser, etc.
 
 # Skills
-* Programming languages: Swift/Objective-C(iOS dev), Kotlin/Java(Android dev), Python(Test automation)
-* Tools/Platforms: Xcode, Git, Gitlab, Github, Bitbucket, SourceTree, JIRA, Eclipse, AWS, Fabric (Crashlytics), Android Studio, Fastlane, Appium, Sketch, Zeplin, etc.
-* App/SDK/API design and modeling
-* Health/Fitness algorithms development
-* Software Version Controll and Release Engineering
-* App Store/Google Play Store Distribution
-* Working experience on these iOS SDKs: Foundation, UIKit, WatchKit, Core Animation, Core Graphics, Core Data, Core Foundation, Core Location, HealthKit, WatchConnectiviy, Core Bluetooth, Core NFC, ARKit.
+* Programming languages: Swift/Objective-C, Java, Python, SQL
+* Tools/Platforms: 
+- UI/UX design: Sketch, Zeplin, OmniGraffle, Proto.io
+- Coding, testing, automation, integration, deployment: Xcode, Android Studio, PyCharm, Eclipse, Git, Github, Bitbucket, SourceTree, JIRA, CircleCI, Jenkins, Appium, Fabric & Firebase, Fastlane.
+* Health, Fitness, Medical algorithms development
+* Medical devices, FDA experience
+* App Store/Google Play Store Management
 
 # Contact
 <mylittleswift@gmail.com>
