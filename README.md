@@ -1,11 +1,11 @@
 # Welcome to My Pages!
 
-Hi, I'm Joey. I'm a native mobile app developer with experince on iOS and Android.
+Hi, I'm Joey. I'm a native mobile app developer with experience on iOS and Android.
 
 # Specialties
-* Native iOS/Android App and SDK development, specially in Mobile Medical apps, Health and Fitness apps.
-* Internet of Things applications: Bluetooth Low Energy(BLE), iBeacon, NFC, Smart wearable devices.
-* App test automation, product verification and validation.
+* Native iOS App and SDK development in Swift and Objective-C, Andorid App development in Java
+* Mobile medical device app development
+* Smart wearable devices and Internet of Things app development using Bluetooth Low Energy(BLE), iBeacon, NFC technologies.
 
 
 # Commercial Projects
@@ -63,16 +63,15 @@ Real-time adult diaper monitoring and change notification. Best accuracy achieve
 ### [iOS Bluetooth SDK](https://github.com/coolnameismy/BabyBluetooth)
 
 # Professional Experience
-Mobile development work for TFE, VivaLnk, ElderSens.com, Reckitt Benckiser, etc.
+Mobile app development work for VivaLnk, ElderSens, Reckitt Benckiser, TFE, etc.
 
 # Skills
-* Programming languages: Swift/Objective-C, Java, Python, SQL
-* Tools/Platforms: 
-- UI/UX design: Sketch, Zeplin, OmniGraffle, Proto.io
-- Coding, testing, automation, integration, deployment: Xcode, Android Studio, PyCharm, Eclipse, Git, Github, Bitbucket, SourceTree, JIRA, CircleCI, Jenkins, Appium, Fabric & Firebase, Fastlane.
+* Coding: Swift, Objective-C, Java
+* Dev tools: Xcode, Android Studio
+* UI/UX design: Sketch, Zeplin, OmniGraffle, Prototyping
+* Git, Github, Bitbucket, SourceTree, JIRA, CircleCI, Jenkins, Appium, Fabric, Firebase, Fastlane.
 * Health, Fitness, Medical algorithms development
 * Medical devices, FDA experience
-* App Store/Google Play Store Management
 
 # Contact
 <mylittleswift@gmail.com>
