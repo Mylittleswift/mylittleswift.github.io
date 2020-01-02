@@ -1,11 +1,11 @@
 # Welcome to My Pages!
 
-Hi, I'm Joey. I'm a native mobile app developer with experience on iOS and Android.
+I'm a native mobile app developer with experience on iOS and Android.
 
 # Specialties
-* Native iOS App and SDK development in Swift and Objective-C, Andorid App development in Java
-* Mobile medical device app development
-* Smart wearable devices and Internet of Things app development using Bluetooth Low Energy(BLE), iBeacon, NFC technologies.
+* Native iOS/iPadOS/watchOS App development in Swift and Objective-C
+* Mobile health/fitness and medical app development
+* Medical devices, wareable devices, Internet of Things app development using Bluetooth Low Energy(BLE), iBeacon, NFC technologies.
 
 
 # Commercial Projects
