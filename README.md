@@ -36,16 +36,6 @@ FeverSense is a wearable thermometer that continuously keeps track of your child
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/84/21/1d/84211d4b-acd9-9d03-6559-594cfe86acff/pr_source.jpg/300x0w.jpg" width="256">  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/e6/79/b8/e679b885-09a9-b3e0-06af-c6d436a2afa4/pr_source.jpg/300x0w.jpg" width="256">
 
 
-[FeverSmart](http://www.nurofen.com.au/feversmart/)<br />
---------------------------------------------------------
-The FeverSmart Temperature Monitor connects with the FeverSmart App to continuously and accurately track your child’s temperature. FeverSmart App helps you feel in control while you monitor your child's fever.
-- Indicates on screen whether your child’s temperature is high, moderate or normal.
-- Visual and audible alerts if temperature rises above 38°C.
-- Helps you track medication over time. <br />
-[![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/au/app/feversmart/id1201727706?mt=8)
-
-<img src="http://is5.mzstatic.com/image/thumb/Purple128/v4/16/02/d5/1602d531-1a25-6468-0029-3987a5986d90/source/392x696bb.jpg" width="256">  <img src="http://is2.mzstatic.com/image/thumb/Purple118/v4/13/52/15/135215b2-24fa-d9e3-f9c2-07b4126acd9f/source/392x696bb.jpg" width="256">
-
 
 # Open-Source Projects and Frameworks Experience
 
