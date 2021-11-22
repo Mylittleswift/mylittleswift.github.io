@@ -1,10 +1,10 @@
 # Welcome to My Pages!
 
-I'm a native mobile app developer with experience on iOS and Android.
+I'm a native mobile app developer on iOS and Android.
 
 # Specialties
-* Native iOS/iPadOS/watchOS App development in Swift and Objective-C
-* Mobile health/fitness and medical app development
+* Native iOS App development in Swift
+* Digital and connected healthcare and medical app development
 * Medical devices, wareable devices, Internet of Things app development using Bluetooth Low Energy(BLE), iBeacon, NFC technologies.
 
 
