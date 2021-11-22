@@ -47,31 +47,17 @@ The FeverSmart Temperature Monitor connects with the FeverSmart App to continuou
 <img src="http://is5.mzstatic.com/image/thumb/Purple128/v4/16/02/d5/1602d531-1a25-6468-0029-3987a5986d90/source/392x696bb.jpg" width="256">  <img src="http://is2.mzstatic.com/image/thumb/Purple118/v4/13/52/15/135215b2-24fa-d9e3-f9c2-07b4126acd9f/source/392x696bb.jpg" width="256">
 
 
-[DiaperSens](http://www.eldersens.com) <br />
----------------------------------------------
-Real-time adult diaper monitoring and change notification. Best accuracy achieved through proprietary algorithms. Data analytics for personalized care. Reduce labor cost & care liability. Ideal for nursing homes, assisted living facilities, and in-home elderly care. <br />
-
-[![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/nz/app/diapersens/id1225117992?mt=8)
-
-<img src="http://a4.mzstatic.com/nz/r30/Purple128/v4/1b/ec/f4/1becf44a-0fcf-7399-3a17-a6a6389be672/screen696x696.jpeg" width="256"> <img src="http://a1.mzstatic.com/nz/r30/Purple118/v4/34/a7/4c/34a74c78-e676-46a7-6911-58ef45a6c602/screen696x696.jpeg" width="256"> 
-
-
 # Open-Source Projects and Frameworks Experience
 
 #### [awesome-ios](https://github.com/vsouza/awesome-ios) - Contributed open-source iOS frameworks
 #### [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - Translated the swift offical book in Chinese
 ### [iOS Bluetooth SDK](https://github.com/coolnameismy/BabyBluetooth)
 
-# Professional Experience
-Mobile app development work for VivaLnk, ElderSens, Reckitt Benckiser, TFE, etc.
 
 # Skills
-* Coding: Swift, Objective-C, Java
-* Dev tools: Xcode, Android Studio
-* UI/UX design: Sketch, Zeplin, OmniGraffle, Prototyping
-* Git, Github, Bitbucket, SourceTree, JIRA, CircleCI, Jenkins, Appium, Fabric, Firebase, Fastlane.
-* Health, Fitness, Medical algorithms development
-* Medical devices, FDA experience
+* Coding Skills: Swift, Objective-C, Java, SQL
+* Developement Tools: Xcode, Github, Bitbucket, SourceTree, JIRA, CircleCI, Firebase, Fastlane.
+* Design Tools: Sketch, Zeplin, Figma
 
 # Contact
 <mylittleswift@gmail.com>
