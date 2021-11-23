@@ -4,11 +4,11 @@ I'm a native mobile app developer on iOS,iPadOS,watchOS.
 
 # Specialties
 * Native iOS App development in Swift
-* Digital and connected healthcare and medical app development
-* Medical devices, wareable devices, Internet of Things app development using Bluetooth Low Energy(BLE), iBeacon, NFC technologies.
+* Connected health and medical app development
+* Medical devices, wareable devices, Internet of Things (IOT) applications using Bluetooth Low Energy(BLE), iBeacon, NFC technologies.
 
 
-# Commercial Projects on App Store
+# Active Commercial Projects on App Store
 
 [Fever Scout](https://apps.apple.com/us/app/fever-scout/id1095852565)<br /> (FDA Cleared)
 ---------------------------------------------
@@ -28,10 +28,11 @@ FeverSense is a wearable thermometer that continuously keeps track of your child
 
 
 
-# Open-Source Projects and Frameworks Experience
+# Activities on Open-Source Projects
 
-#### [awesome-ios](https://github.com/vsouza/awesome-ios) - Contributed open-source iOS frameworks
-#### [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - Translated the swift offical book in Chinese
+#### [awesome-ios](https://github.com/vsouza/awesome-ios) - Contributing open-source iOS frameworks
+#### [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - Translating the swift offical book in Chinese
+#### [open source ios health and fitness apps](https://github.com/Mylittleswift/ios-health-fitness-apps)
 ### [iOS Bluetooth SDK](https://github.com/coolnameismy/BabyBluetooth)
 
 
