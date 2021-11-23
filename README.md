@@ -8,15 +8,15 @@ I'm a native mobile app developer on iOS and Android.
 * Medical devices, wareable devices, Internet of Things app development using Bluetooth Low Energy(BLE), iBeacon, NFC technologies.
 
 
-# Commercial Projects
+# Commercial Projects on App Store
 
-[Fever Scout](https://feverscout.com)<br />
+[Fever Scout](https://apps.apple.com/us/app/fever-scout/id1095852565)<br />
 ---------------------------------------------
 Fever Scout is a soft wearable thermometer that continuously measures temperature and wirelessly sends that information to your smartphone or tablet.<br />
 
-[![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/us/app/fever-scout/id1095852565?mt=8)
+[![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apps.apple.com/us/app/fever-scout/id1095852565)
 
-<img src="http://a3.mzstatic.com/us/r30/Purple71/v4/10/76/7e/10767ee2-2f94-bb0e-e215-9d109b267fa1/screen696x696.jpeg" width="256">  <img src="http://a5.mzstatic.com/us/r30/Purple71/v4/1d/74/81/1d7481ab-a09b-2214-20af-005da9624775/screen696x696.jpeg" width="256">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ef/89/bc/ef89bc70-b2cf-ced0-eeb9-7edce739d500/pr_source.jpg/314x0w.webp" width="256">  <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/9b/db/0a9bdb3c-deae-2aaa-a0a9-3512d169e3e9/pr_source.jpg/314x0w.webp" width="256">
 
 
 [Enfasmart FeverSense](https://apps.apple.com/us/app/enfasmart-feversense/id1356577835)<br />
@@ -37,8 +37,8 @@ FeverSense is a wearable thermometer that continuously keeps track of your child
 
 # Skills
 * Coding Skills: Swift, Objective-C, Java, SQL
-* Developement Tools: Xcode, Github, Bitbucket, SourceTree, JIRA, CircleCI, Firebase, Fastlane.
-* Design Tools: Sketch, Zeplin, Figma
+* Developement Tools: Xcode, Github, Bitbucket, SourceTree, JIRA, CircleCI, Realm, Firebase, Fastlane, etc.
+* Design Tools: Sketch, Figma, Zeplin
 
 # Contact
 <mylittleswift@gmail.com>
