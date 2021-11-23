@@ -1,6 +1,6 @@
 # Welcome to My Pages!
 
-I'm a native mobile app developer on iOS and Android.
+I'm a native mobile app developer on iOS,iPadOS,watchOS.
 
 # Specialties
 * Native iOS App development in Swift
@@ -10,7 +10,7 @@ I'm a native mobile app developer on iOS and Android.
 
 # Commercial Projects on App Store
 
-[Fever Scout](https://apps.apple.com/us/app/fever-scout/id1095852565)<br />
+[Fever Scout](https://apps.apple.com/us/app/fever-scout/id1095852565)<br /> (FDA Cleared)
 ---------------------------------------------
 Fever Scout is a soft wearable thermometer that continuously measures temperature and wirelessly sends that information to your smartphone or tablet.<br />
 
@@ -19,7 +19,7 @@ Fever Scout is a soft wearable thermometer that continuously measures temperatur
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ef/89/bc/ef89bc70-b2cf-ced0-eeb9-7edce739d500/pr_source.jpg/314x0w.webp" width="256">  <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/9b/db/0a9bdb3c-deae-2aaa-a0a9-3512d169e3e9/pr_source.jpg/314x0w.webp" width="256">
 
 
-[Enfasmart FeverSense](https://apps.apple.com/us/app/enfasmart-feversense/id1356577835)<br />
+[Enfasmart FeverSense](https://apps.apple.com/us/app/enfasmart-feversense/id1356577835)<br /> (FDA Cleared)
 --------------------------------------------------------
 FeverSense is a wearable thermometer that continuously keeps track of your child’s temperature when they’re sick. The flexible, comfortable monitor is positioned in your child’s armpit and wirelessly sends accurate, real-time temperature readings to your smart device. With a single charge, you can track your child’s temperature for up to 7 days. If your child’s temperature rises, the connected FeverSense app will alert you, so you can respond immediately.<br />
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apps.apple.com/us/app/enfasmart-feversense/id1356577835)
