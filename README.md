@@ -4,8 +4,8 @@ I'm a native mobile app developer on iOS,iPadOS,watchOS.
 
 # Specialties
 * Native iOS App development in Swift
-* Connected health and medical app development
-* Medical devices, wareable devices, Internet of Things (IOT) applications using Bluetooth Low Energy(BLE), iBeacon, NFC technologies.
+* Health and medical app development
+* Connected Health and Fitness, Medical devices, wareable devices, Internet of Things (IOT) applications using Bluetooth Low Energy(BLE), iBeacon, NFC technologies.
 
 
 # Active Commercial Projects on App Store
