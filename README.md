@@ -16,7 +16,7 @@ This app is designed to allow clinical researchers and VivaLNK Mobile SDK Develo
 
 [![App store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apps.apple.com/us/app/multi-vital-monitor/id1445374809#?platform=iphone)
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/86/55/74/865574b2-ecff-c4d0-7933-1a82e9a506a7/f93018e1-6fbd-40b8-aef4-25636d4e6ef7_3.jpg/460x0w.webp" width="256">  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/ab/22/9c/ab229c09-ad36-38ca-4991-248c8042ed46/16351630-04d6-4b07-9be1-b37b4348d298_4.jpg/626x0w.webp" width="256">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/86/55/74/865574b2-ecff-c4d0-7933-1a82e9a506a7/f93018e1-6fbd-40b8-aef4-25636d4e6ef7_3.jpg/460x0w.webp" width="256">
 
 [Fever Scout](https://apps.apple.com/us/app/fever-scout/id1095852565)<br /> (FDA Cleared)
 ---------------------------------------------
