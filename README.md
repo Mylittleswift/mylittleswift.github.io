@@ -30,7 +30,7 @@ This app is designed to allow clinical researchers and VivaLNK Mobile SDK Develo
 
 [![App store](https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg)](https://apps.apple.com/us/app/multi-vital-monitor/id1445374809#?platform=iphone)
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/86/55/74/865574b2-ecff-c4d0-7933-1a82e9a506a7/f93018e1-6fbd-40b8-aef4-25636d4e6ef7_3.jpg/460x0w.webp" width="256">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/8c/9f/a28c9fa9-c9e2-c357-b21b-d5ffc68db1cf/025fefaf-a0f8-43cd-8d21-5b0d3cba0374_iOS_U0028max_U0029_5.png/460x0w.webp" width="256"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/77/59/067759e7-ce0d-0826-ed72-51262de48d8e/9f759ef5-58e5-4a3a-b4f1-bdbc050edd0b_iOS_U0028max_U0029_3.png/460x0w.webp" width="256">
 
 [Fever Scout](https://apps.apple.com/us/app/fever-scout/id1095852565)<br /> (Health & Fitness)
 ---------------------------------------------
