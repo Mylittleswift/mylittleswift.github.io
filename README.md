@@ -1,6 +1,4 @@
-# Welcome to My Pages!
-
-I'm a mobile app developer on iOS, iPadOS, watchOS platforms.
+Mylittleswift is developing iOS, iPadOS, watchOS apps and more...
 
 # Specialties
 * Native iOS App development in Swift and Objective-C.
