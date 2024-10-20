@@ -3,9 +3,9 @@
 I'm a mobile app developer on iOS, iPadOS, watchOS platforms.
 
 # Specialties
-* Native iOS App development in Swift
-* Mobile app desgin and development
-* Business, Finance, Medical, Health, Fitness, wareable devices, Internet of Things (IOT) applications using Bluetooth, iBeacon, NFC, location and sensore technologies.
+* Native iOS App development in Swift and Objective-C.
+* Mobile app desgin and development.
+* Business, Finance, Medical, Health, Fitness, Wareable devices, Internet of Things (IOT) applications using Bluetooth, iBeacon, NFC, location and sensore technologies.
 
 
 # Active Commercial Projects on App Store
@@ -58,8 +58,8 @@ FeverSense is a wearable thermometer that continuously keeps track of your child
 
 # Skills
 * Coding Skills: Swift, Objective-C, Java
-* Developement Tools: Xcode, Github, Bitbucket, JIRA, CircleCI, Firebase, Fastlane, etc.
-* Design Tools: Sketch, Figma, Zeplin
+* Developement Tools: Xcode, Github, Bitbucket, GitLab, Firebase, DataDog, SDK, etc.
+* Design Tools: Sketch, Figma, Zeplin, etc.
 
 # Contact
 <mylittleswift@gmail.com>
